@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>详情页</title>
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+		<!--css插件样式-->
+		<link rel="stylesheet" type="text/css" href="libs/plugin/ionic/css/ionic.min.css"/>
+		<link rel="stylesheet" type="text/css" href="libs/plugin/bootstrap/css/bootstrap.min.css"/>
+		<link rel="stylesheet" type="text/css" href="libs/plugin/Font-Awesome-3.2.1/css/font-awesome.min.css"/>
+		<link rel="stylesheet" type="text/css" href="libs/plugin/swiper/swiper-3.4.2.min.css"/>
+		<!--css自敲样式-->
+		<link rel="stylesheet" type="text/css" href="libs/css/detail.css"/>
+		<!--js插件-->
+		<script src="libs/plugin/ionic/js/ionic.bundle.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="libs/jquery/jquery-2.1.1.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="libs/plugin/swiper/swiper-3.4.2.jquery.min.js" type="text/javascript" charset="utf-8"></script>
+		<!--js自敲-->
+		<script src="libs/js/detail.js" type="text/javascript" charset="utf-8"></script>
+	</head>
+	<body ng-app='myApp-detail' ng-controller='myCtrl-detail'>
+		<div class="bar bar-header bar-assertive">
+			<div class="col-xs-2 center-v"><i class="icon-search icon-2x"></i></div>
+			<div class="col-xs-8 center-v"><input type="text" name="search" id="search" placeholder="Search"/></div>
+			<div class="col-xs-2 center-v"><i class="icon-search icon-2x"></i></div>
+		</div>
+		<ion-content class='has-header' >
+			
+			<div class="swiper-container">  <!--广告轮播图-->
+			    <div class="swiper-wrapper lunboDetail" > 			    	 
+			    	<div class="swiper-slide"><img ng-src="{{detail0}}"/></div>
+			        <div class="swiper-slide"><img ng-src="{{detail1}}"/></div>
+			        <div class="swiper-slide"><img ng-src="{{detail2}}"/></div>
+			        <div class="swiper-slide"><img ng-src="{{detail3}}"/></div>			     			      
+			    </div>
+			    <!-- 如果需要分页器 -->
+			    <div class="swiper-pagination"></div>
+			</div>
+			
+			<div class="detail-content" ng-repeat="x in detail">
+				<div class="describe1" ng-bind="x.describe1"></div>
+				<div class="describe2" ng-bind="x.describe2"></div>
+				<div class="price" ng-bind="x.price | currency:'￥'"></div>
+				<div class="cz">
+					
+				</div>
+				 
+			</div>
+			<div class="detail-img" ng-repeat= "y in ee">
+				<img ng-src="{{y.xImg00}}"/>
+			</div>
+			<div class="k"></div>
+		</ion-content>
+		<!--底部导航-->
+		<div class="bar bar-footer bar-assertive">
+			  
+			<div class="title">detail</div>
+			             
+		</div>
+	</body>
+</html>

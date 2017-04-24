@@ -1,0 +1,86 @@
+<div class="index-content">
+	
+	
+	<!--爱生活-->
+	<div class="title">
+		<img src="libs/imgs/ash.png"/>
+	</div>
+	<div class="ash-info" ng-repeat = 'item in ash'>
+		<div class="col-xs-12 bg">
+			<a href="detail.html?id={{item.id}}"><img ng-src="{{item.imgUrl}}"/></a>
+		</div>
+		<!--<div class="infos">
+			<div class="info-01" ng-bind="item.title">
+			
+			</div>
+			<div class="info-02">
+				<h5 ng-bind="item.describe"></h5>
+				<h6 ><span ng-bind="item.sales "></span><span ng-bind="item.price| currency:'￥'"></span></h6>
+			</div>
+		</div>-->
+	</div>
+	
+	
+	
+	<!--购特色-->
+	<div class="title">
+		<img src="libs/imgs/gts.png"/>
+	</div>
+	<div class=" gts-box" ng-repeat = 'item in gts'>
+		<div class=" gts-box1" >
+			<div class="col-xs-6 gts-wenzi">
+				<h5 ng-bind="item.title" class="fontWeight"></h5>
+				<h6 ng-bind="item.describe" class="gts-wenzi-colors"></h6>
+				<h6 ng-bind="item.sales" class="gts-hd"></h6>
+			</div>
+			<div class="col-xs-6 gts-img">
+				<a href="detail.html"><img ng-src="{{item.imgUrl}}"/></a>
+			</div>
+		</div>
+	</div>	
+	<div class="xpz-box">
+		<div class="gtsLove" ng-repeat = 'item in gtsLoves'> 		
+		<dl class="">
+			<dt ng-bind="item.title"></dt>
+			<dd ng-bind="item.describe" class="ddcolor"></dd>
+			<dd><a href="detail.html"><img ng-src="{{item.imgUrl}}"/></a></dd>
+		</dl>
+	</div>
+	
+	<!--小广告-->
+	<div class="lb">
+		<div class="lb-img">
+			<img src="libs/imgs/xgg-01.jpg"/>
+			<img src="libs/imgs/xgg-02.jpg"/>			
+		</div>
+		<span class="span-1"></span>
+		<span class="span-2"></span>
+	</div>
+	
+	<!--享品质-->
+	<div class="title">
+		<img src="libs/imgs/xpz.png"/>
+	</div>
+	<div class=" gts-box" ng-repeat = 'item in xpz'>
+		<div class=" gts-box1" >
+			<div class="col-xs-6 gts-wenzi">
+				<h5 ng-bind="item.title" class="fontWeight"></h5>
+				<h6 ng-bind="item.describe" class="xpz-wenzi-colors"></h6>
+				<h6 ng-bind="item.sales" class="xpz-hd"></h6>
+			</div>
+			<div class="col-xs-6 gts-img">
+				<a href="detail.html"><img ng-src="{{item.imgUrl}}"/></a>
+			</div>
+		</div>
+	</div>
+	<!--小广告-->
+	<div class="lb">
+		<div class="lb-img">
+			<img src="libs/imgs/xgg-03.jpg"/>
+			<img src="libs/imgs/xgg-04.jpg"/>			
+		</div>
+		<span class="span-1"></span>
+		<span class="span-2"></span>
+	</div>
+
+</div>

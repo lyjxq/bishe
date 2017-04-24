@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>首页</title> 
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+		<!--css插件样式-->
+		<link rel="stylesheet" type="text/css" href="libs/plugin/ionic/css/ionic.min.css"/>
+		<link rel="stylesheet" type="text/css" href="libs/plugin/bootstrap/css/bootstrap.min.css"/>
+		<link rel="stylesheet" type="text/css" href="libs/plugin/Font-Awesome-3.2.1/css/font-awesome.min.css"/>
+		<link rel="stylesheet" type="text/css" href="libs/plugin/swiper/swiper-3.4.2.min.css"/>
+		<!--css自敲样式-->
+			<link rel="stylesheet" type="text/css" href="libs/css/index.css"/>
+		<!--js插件-->
+		<script src="libs/plugin/ionic/js/ionic.bundle.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="libs/jquery/jquery-2.1.1.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="libs/plugin/swiper/swiper-3.4.2.jquery.min.js" type="text/javascript" charset="utf-8"></script>
+		
+		<script src="libs/plugin/navbarscroll/flexible.js" type="text/javascript" charset="utf-8"></script>
+		<script src="libs/plugin/navbarscroll/iscroll.js" type="text/javascript" charset="utf-8"></script>
+		<script src="libs/plugin/navbarscroll/navbarscroll.js" type="text/javascript" charset="utf-8"></script>
+		 
+		<!--js自敲-->
+		<script src="libs/js/index.js" type="text/javascript" charset="utf-8"></script>
+		<script src="libs/js/bs-global.js" type="text/javascript" charset="utf-8"></script>
+	</head>
+	<body ng-app='myApp' ng-controller='myCtrl'>
+		<!--头部标题-->
+		  	<div class="bar bar-header bg-hf">
+				<div class="col-xs-2 center-v">
+					<dl>
+						<dt><i class="icon-qrcode icon-2x"></i></dt>
+						<dd>扫扫</dd>
+					</dl>
+					
+				</div>
+				<div class="col-xs-8 center-v"><input type="text" name="search" id="search" placeholder="Search"/></div>
+				<div class="col-xs-2 center-v">
+					<dl >
+						<dt><i class="icon-comments-alt icon-2x"></i></dt>
+						<dd>消息</dd>
+					</dl>
+					
+				</div>
+			</div>
+		<!--滑框效果开始-->
+		<ion-content class='has-header'>
+			<ion-refresher pulling-text="下拉刷新" on-refresh="" ></ion-refresher>	<!--下拉执行函数-->
+			 
+			<!--中间内容-->
+			<div class="swiper-container">  <!--广告轮播图-->
+			    <div class="swiper-wrapper lunbo1"> 
+			        <div class="swiper-slide"><img src="libs/imgs/04.jpg"/></div>
+			        <div class="swiper-slide"><img src="libs/imgs/02.jpg"/></div>
+			        <div class="swiper-slide"><img src="libs/imgs/01.jpg"/></div>
+			        <div class="swiper-slide"><img src="libs/imgs/03.jpg"/></div>
+			        <div class="swiper-slide"><img src="libs/imgs/05.jpg"/></div>
+			        <div class="swiper-slide"><img src="libs/imgs/06.jpg"/></div>
+			    </div>
+			    <!-- 如果需要分页器 -->
+			  <div class="swiper-pagination"></div>
+			</div>
+			
+			<div class="fl-con">
+				<!--分类-->
+				<fl></fl>
+			</div>
+			<div class="ash-con">
+				<!--爱生活-->
+				<aishenghuo></aishenghuo>
+			</div>
+			
+			<div class="nav-gg">
+				<!--逛商场-->
+				<div class="title">
+					<img src="libs/imgs/gsc.png"/>
+				</div>
+				<div class="wrapper02" id="demo06">
+					<div class="scroller">
+						<ul class="clearfix">
+							<li><a href="detail.html?id=4">
+								<span>贝贝旗舰店</span>
+								<img src="libs/imgs/ash-04-l01.jpg"/>
+							</a></li>
+							<li><a href="detail.html?id=2">
+								<span>大迦食品</span>
+								<img src="libs/imgs/ash-02-l01.jpg"/>
+							</a></li>
+							<li><a href="detail.html?id=3">
+								<span>骆驼旗舰店</span>
+								<img src="libs/imgs/ash-03-l01.jpg"/>
+							</a></li>
+							<li><a href="detail.html?id=1">
+								<span>罗衣旗舰店</span>
+								<img src="libs/imgs/ash-01-l01.jpg"/>
+							</a></li>
+							<li><a href="detail.html?id=5">
+								<span>wolfrock旗舰店</span> 
+								<img src="libs/imgs/ash-05-l01.jpg"/>
+							</a></li>
+							 
+						</ul>
+					</div>
+				</div>
+			</div>
+	              
+			<div class="gsc">
+				<gsc></gsc>
+			</div>  
+			<div class="gsc">
+				 
+			</div> 
+			<ion-infinite-scroll on-infinite="loadMore()" distance="80%" >  
+			</ion-infinite-scroll>
+		</ion-content><!--滑框效果结束-->
+		<!--底部导航--> 
+			<div class="bar bar-footer pm">
+			   
+			  <div class="foot"><a href=""><i class="ion-ios-home-outline icon-2x"></i><br />首页</a></div>
+			  <div class="foot"><a href="classify.html"><i class="ion-ios-settings icon-2x"></i><br />分类</a></div>
+			  <div class="foot"><a href=""><i class="ion-android-favorite-outline icon-2x"></i><br />喜欢</a></div>
+			  <div class="foot"><a href=""><i class="ion-ios-cart-outline icon-2x"></i><br />购物车</a></div>
+			  <div class="foot"><a href=""><i class="ion-ios-person-outline icon-2x"></i><br />我的</a></div>
+			                 
+			</div>
+	</body>
+</html>

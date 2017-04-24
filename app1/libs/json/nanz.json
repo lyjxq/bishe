@@ -1,0 +1,175 @@
+{"data":[
+	{"id":"n01",
+	"imgUrl":"libs/imgs/nanz-01.jpg",	
+	"price":"98",
+	"nums":"159",
+	"lImg":{"lImg01":"libs/imgs/nanz-01-l01.jpg",
+			"lImg02":"libs/imgs/nanz-01-l02.jpg",
+			"lImg03":"libs/imgs/nanz-01-l03.jpg",
+			"lImg04":"libs/imgs/nanz-01-l04.jpg"
+			},
+	"describe1":"夏季欧美高街风落肩oversize暗黑系T恤男 嘻哈宽松大码短袖情侣潮",
+	"describe2":"海量新品 潮流穿搭 玩趣互动",
+	"xImg":[{"xImg00":"libs/imgs/nanz-01-l01.jpg"},
+			{"xImg00":"libs/imgs/nanz-01-l02.jpg"},
+			{"xImg00":"libs/imgs/nanz-01-l03.jpg"},
+			{"xImg00":"libs/imgs/nanz-01-l04.jpg"},
+			{"xImg00":"libs/imgs/nanz-01-l05.jpg"},
+			{"xImg00":"libs/imgs/nanz-01-l06.jpg"},
+			{"xImg00":"libs/imgs/nanz-01-l07.jpg"},
+			{"xImg00":"libs/imgs/nanz-01-l08.jpg"},
+			{"xImg00":"libs/imgs/nanz-01-l09.jpg"},
+			{"xImg00":"libs/imgs/nanz-01-l10.jpg"},
+			{"xImg00":"libs/imgs/nanz-01-l11.jpg"}						
+			]
+	},
+	{"id":"n02",
+	"imgUrl":"libs/imgs/nanz-02.jpg",	
+	"price":"158",
+	"nums":"198",
+	"lImg":{"lImg01":"libs/imgs/nanz-02-l01.jpg",
+			"lImg02":"libs/imgs/nanz-02-l02.jpg",
+			"lImg03":"libs/imgs/nanz-02-l03.jpg",
+			"lImg04":"libs/imgs/nanz-02-l04.jpg"
+			},
+	"describe1":"日系复古纯色男生宽松打底衫 韩版下摆开叉刺绣中长款男装长袖T恤",
+	"describe2":"海量新品 潮流穿搭 玩趣互动",
+	"xImg":[
+			{"xImg00":"libs/imgs/nanz-02-l05.jpg"},
+			{"xImg00":"libs/imgs/nanz-02-l06.jpg"},
+			{"xImg00":"libs/imgs/nanz-02-l07.jpg"},
+			{"xImg00":"libs/imgs/nanz-02-l08.jpg"},
+			{"xImg00":"libs/imgs/nanz-02-l09.jpg"},
+			{"xImg00":"libs/imgs/nanz-02-l10.jpg"},
+			{"xImg00":"libs/imgs/nanz-02-l11.jpg"},
+			{"xImg00":"libs/imgs/nanz-02-l12.jpg"}						
+			]
+	},
+	{"id":"n03",
+	"imgUrl":"libs/imgs/nanz-03.jpg",	
+	"price":"97",
+	"nums":"120",
+	"lImg":{"lImg01":"libs/imgs/nanz-03-l01.jpg",
+			"lImg02":"libs/imgs/nanz-03-l02.jpg",
+			"lImg03":"libs/imgs/nanz-03-l03.jpg",
+			"lImg04":"libs/imgs/nanz-03-l04.jpg"
+			},
+	"describe1":"白衬衫男衬衣长袖夏季职业装商务春修身型青年寸衫 威帝澜卡",
+	"describe2":"【修身免烫商务衬衫】【收藏店铺咨询客服满199减20元】",
+	"xImg":[
+			{"xImg00":"libs/imgs/nanz-03-l05.jpg"},
+			{"xImg00":"libs/imgs/nanz-03-l06.jpg"},
+			{"xImg00":"libs/imgs/nanz-03-l07.jpg"},
+			{"xImg00":"libs/imgs/nanz-03-l08.jpg"},
+			{"xImg00":"libs/imgs/nanz-03-l09.jpg"},
+			{"xImg00":"libs/imgs/nanz-03-l10.jpg"},
+			{"xImg00":"libs/imgs/nanz-03-l11.jpg"},
+			{"xImg00":"libs/imgs/nanz-03-l12.jpg"},
+			{"xImg00":"libs/imgs/nanz-03-l13.jpg"},
+			{"xImg00":"libs/imgs/nanz-03-l14.jpg"},
+			{"xImg00":"libs/imgs/nanz-03-l15.jpg"},
+			{"xImg00":"libs/imgs/nanz-03-l16.jpg"},
+			{"xImg00":"libs/imgs/nanz-03-l17.jpg"}						
+			]
+	},
+	{"id":"n04",
+	"imgUrl":"libs/imgs/nanz-04.jpg",	
+	"price":"85",
+	"nums":"583",
+	"lImg":{"lImg01":"libs/imgs/nanz-04-l01.jpg",
+			"lImg02":"libs/imgs/nanz-04-l02.jpg",
+			"lImg03":"libs/imgs/nanz-04-l03.jpg",
+			"lImg04":"libs/imgs/nanz-04-l04.jpg"
+			},
+	"describe1":"春装韩国ulzzang时尚男士宽松落肩卫衣外套潮男休闲7分袖运动套装 ",
+	"describe2":" 海量新品 潮流穿搭 玩趣互动",
+	"xImg":[
+			{"xImg00":"libs/imgs/nanz-04-l05.jpg"},
+			{"xImg00":"libs/imgs/nanz-04-l06.jpg"},
+			{"xImg00":"libs/imgs/nanz-04-l07.jpg"},
+			{"xImg00":"libs/imgs/nanz-04-l08.jpg"},
+			{"xImg00":"libs/imgs/nanz-04-l09.jpg"}					
+			]
+	},
+	{"id":"n05",
+	"imgUrl":"libs/imgs/nanz-05.jpg",	
+	"price":"89",
+	"nums":"224",
+	"lImg":{"lImg01":"libs/imgs/nanz-05-l01.jpg",
+			"lImg02":"libs/imgs/nanz-05-l02.jpg",
+			"lImg03":"libs/imgs/nanz-05-l03.jpg",
+			"lImg04":"libs/imgs/nanz-05-l04.jpg"
+			},
+	"describe1":"日系港风纯棉百搭长袖衬衫学生春秋格子文艺男衬衫潮牌男士长衬衣  ",
+	"describe2":" 海量新品 潮流穿搭 玩趣互动",
+	"xImg":[
+			{"xImg00":"libs/imgs/nanz-05-l05.jpg"},
+			{"xImg00":"libs/imgs/nanz-05-l06.jpg"},
+			{"xImg00":"libs/imgs/nanz-05-l07.jpg"},
+			{"xImg00":"libs/imgs/nanz-05-l08.jpg"},
+			{"xImg00":"libs/imgs/nanz-05-l09.jpg"}					
+			]
+	},
+	{"id":"n06",
+	"imgUrl":"libs/imgs/nanz-06.jpg",	
+	"price":"128",
+	"nums":"369",
+	"lImg":{"lImg01":"libs/imgs/nanz-06-l01.jpg",
+			"lImg02":"libs/imgs/nanz-06-l02.jpg",
+			"lImg03":"libs/imgs/nanz-06-l03.jpg",
+			"lImg04":"libs/imgs/nanz-06-l04.jpg"
+			},
+	"describe1":"BDCT 日系水洗牛仔衬衫男长袖 欧美潮牌春季薄款修身休闲衬衣潮 ",
+	"describe2":" 海量新品 潮流穿搭 玩趣互动",
+	"xImg":[
+			{"xImg00":"libs/imgs/nanz-06-l05.jpg"},
+			{"xImg00":"libs/imgs/nanz-06-l06.jpg"},
+			{"xImg00":"libs/imgs/nanz-06-l01.jpg"},
+			{"xImg00":"libs/imgs/nanz-06-l02.jpg"},
+			{"xImg00":"libs/imgs/nanz-06-l03.jpg"},
+			{"xImg00":"libs/imgs/nanz-06-l08.jpg"}					
+			]
+	},
+	{"id":"n07",
+	"imgUrl":"libs/imgs/nanz-07.jpg",	
+	"price":"109",
+	"nums":"124",
+	"lImg":{"lImg01":"libs/imgs/nanz-07-l01.jpg",
+			"lImg02":"libs/imgs/nanz-07-l02.jpg",
+			"lImg03":"libs/imgs/nanz-07-l03.jpg",
+			"lImg04":"libs/imgs/nanz-07-l04.jpg"
+			},
+	"describe1":"几立 黑色毛边长袖衬衫男 春夏新款纯色方领麻修身衬衣男青年 ",
+	"describe2":" 海量新品 潮流穿搭 玩趣互动",
+	"xImg":[
+			{"xImg00":"libs/imgs/nanz-07-l05.jpg"},
+			{"xImg00":"libs/imgs/nanz-07-l06.jpg"},
+			{"xImg00":"libs/imgs/nanz-07-l07.jpg"},
+			{"xImg00":"libs/imgs/nanz-07-l08.jpg"},
+			{"xImg00":"libs/imgs/nanz-07-l09.jpg"},
+			{"xImg00":"libs/imgs/nanz-06-l10.jpg"},
+			{"xImg00":"libs/imgs/nanz-06-l11.jpg"}					
+			]
+	},
+	{"id":"n08",
+	"imgUrl":"libs/imgs/nanz-08.jpg",	
+	"price":"139",
+	"nums":"336",
+	"lImg":{"lImg01":"libs/imgs/nanz-08-l01.jpg",
+			"lImg02":"libs/imgs/nanz-08-l02.jpg",
+			"lImg03":"libs/imgs/nanz-08-l03.jpg",
+			"lImg04":"libs/imgs/nanz-08-l04.jpg"
+			},
+	"describe1":"春季新款运动男式短袖连帽宽松假两件套头青少年拼色撞色卫衣男装 ",
+	"describe2":"在设计这个款式的时候 我有很多的想法 都完美的诠释在这一件中袖连帽卫衣 ①独特的版型裁剪 宽松又不失版型效果 ②独创的短袖设计 可搭配长袖露出在外 ③卫衣的下部缝合的时尚的假两件，以及不规则的衣尾 ④尼龙的缩帽绳，简约的帽扣环。 这件简直是卫衣中的百搭款 赶快入手吧！",
+	"xImg":[
+			{"xImg00":"libs/imgs/nanz-08-l05.jpg"},
+			{"xImg00":"libs/imgs/nanz-08-l06.jpg"},
+			{"xImg00":"libs/imgs/nanz-08-l07.jpg"},
+			{"xImg00":"libs/imgs/nanz-08-l08.jpg"},
+			{"xImg00":"libs/imgs/nanz-08-l09.jpg"},
+			{"xImg00":"libs/imgs/nanz-08-l10.jpg"},
+			{"xImg00":"libs/imgs/nanz-08-l11.jpg"}					
+			]
+	}
+]}

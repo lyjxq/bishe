@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html >
+	<head>
+		<meta charset="utf-8">
+		<title>分类1</title>
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+		<!--css插件样式-->	
+		<link rel="stylesheet" type="text/css" href="libs/plugin/ionic/css/ionic.min.css"/>
+		<link rel="stylesheet" type="text/css" href="libs/plugin/Font-Awesome-3.2.1/css/font-awesome.min.css"/>
+		<!--css自敲样式-->
+		<link rel="stylesheet" type="text/css" href="libs/css/pagetab.css"/>
+		
+	</head>
+	<body >
+		<!--头部标题-->
+		<div class="bar bar-header bar-assertive ">
+				{{title}} 
+		</div>
+		
+		<div class="left-c has-header" >
+				<div class="nav-l" ui-sref=".page1">男装1</div>
+				<div class="nav-l" ui-sref=".page2">男装2</div>
+				<div class="nav-l" ui-sref=".page1">男装3</div>
+				<div class="nav-l" ui-sref=".page2">男装4</div>
+				<div class="nav-l" ui-sref=".page1">男装5</div>
+				<div class="nav-l" ui-sref=".page2">男装6</div>
+				<div class="nav-l" ui-sref=".page1">男装7</div>
+				<div class="nav-l" ui-sref=".page2">男装8</div>
+				<div class="nav-l" ui-sref=".page1">男装9</div>
+				<div class="nav-l" ui-sref=".page2">男装10</div>
+				
+				<div class="k-l">
+					
+				</div>
+		</div>
+		<div class="right-c has-header">
+			<div ui-view="" id="view"/> </div>	
+			
+		</div>	        
+			       
+		<div class="bar bar-footer bar-assertive ">
+				{{title}}  
+		</div>	   
+	   
+	    
+	</body>
+</html>
