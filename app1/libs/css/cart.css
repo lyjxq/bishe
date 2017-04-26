@@ -1,0 +1,106 @@
+.col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12, * {
+  padding: 0;
+  margin: 0; }
+
+.good-box {
+  width: 100%;
+  height: 90px;
+  border-bottom: 1px solid gainsboro; }
+  .good-box .item-toggle {
+    border: none; }
+  .good-box .good-t {
+    background: white;
+    height: 100%;
+    text-align: center; }
+    .good-box .good-t .toggle {
+      position: absolute;
+      top: 36px;
+      left: 13px; }
+    .good-box .good-t .track {
+      width: 37px;
+      height: 17px; }
+      .good-box .good-t .track .handle {
+        height: 13px;
+        width: 13px; }
+  .good-box .good-img {
+    background: white;
+    height: 100%;
+    padding: 5px 5px 2px 0; }
+    .good-box .good-img img {
+      width: 100%;
+      height: 100%; }
+  .good-box .good-info {
+    height: 100%; }
+    .good-box .good-info .good-d {
+      width: 100%;
+      height: 30px;
+      line-height: 30px;
+      font-size: 12px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap; }
+    .good-box .good-info .good-cz {
+      width: 100%;
+      height: 30px;
+      position: relative; }
+      .good-box .good-info .good-cz span {
+        float: left; }
+      .good-box .good-info .good-cz span:nth-child(1) {
+        width: 30%;
+        height: 30px;
+        line-height: 30px;
+        color: red;
+        font-size: 14px; }
+      .good-box .good-info .good-cz span:nth-child(2) {
+        width: 20%;
+        height: 30px;
+        line-height: 30px;
+        color: #C4C9CE;
+        text-align: center;
+        font-size: 10px; }
+      .good-box .good-info .good-cz span:nth-child(3) {
+        width: 10%;
+        height: 20px;
+        line-height: 18px;
+        text-align: center;
+        font-size: 12px;
+        margin-top: 5px;
+        border-top-left-radius: 8px;
+        border-bottom-left-radius: 8px;
+        border: 1px solid #8C8C8C;
+        background: #C4C9CE; }
+      .good-box .good-info .good-cz span:nth-child(4) {
+        width: 18%;
+        height: 20px;
+        line-height: 18px;
+        text-align: center;
+        font-size: 14px;
+        margin-top: 5px;
+        border: 1px solid #8C8C8C;
+        background: #C4C9CE;
+        margin-left: 5px; }
+      .good-box .good-info .good-cz span:nth-child(5) {
+        width: 10%;
+        height: 20px;
+        line-height: 20px;
+        text-align: center;
+        font-size: 12px;
+        margin-top: 5px;
+        border-top-right-radius: 8px;
+        border-bottom-right-radius: 8px;
+        border: 1px solid #8C8C8C;
+        background: #C4C9CE;
+        margin-left: 5px; }
+    .good-box .good-info .good-sc {
+      width: 100%;
+      height: 30px;
+      position: relative; }
+      .good-box .good-info .good-sc span {
+        position: absolute;
+        top: 0px;
+        left: 80%;
+        width: 28px;
+        height: 28px;
+        border: 1px solid #8C8C8C;
+        text-align: center;
+        font-size: 28px; }

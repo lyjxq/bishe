@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>购物车 </title>
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+		<!--css插件样式-->
+		<link rel="stylesheet" type="text/css" href="libs/plugin/ionic/css/ionic.min.css"/>
+		<link rel="stylesheet" type="text/css" href="libs/plugin/bootstrap/css/bootstrap.min.css"/>
+		<link rel="stylesheet" type="text/css" href="libs/plugin/Font-Awesome-3.2.1/css/font-awesome.min.css"/>
+		
+		<!--css自敲样式-->
+		<link rel="stylesheet" type="text/css" href="libs/css/cart.css"/>
+					
+		<!--js插件-->
+		<script src="libs/plugin/ionic/js/ionic.bundle.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="libs/jquery/jquery-2.1.1.min.js" type="text/javascript" charset="utf-8"></script>
+		
+		<!--js自敲-->
+		<script src="libs/js/cart.js" type="text/javascript" charset="utf-8"></script>
+	</head>
+	<body ng-app='myApp-cart' ng-controller='myCtrl-cart'>
+		<div class="bar bar-header bar-assertive " id="test">
+			{{title}}
+		</div>
+		<ion-content class='has-header' >
+			<!--ng-repeat = 'x in repeatGoods'-->
+			<div class="good-box " ng-repeat = 'x in repeatGoods'>
+				<div class="col-xs-2 good-t item item-toggle">					  
+				     <label class="toggle toggle-assertive">
+				       <input type="checkbox">
+				       	<div class="track">
+			               <div class="handle"></div>
+			            </div>
+				     </label>     
+				</div>
+				<div class="col-xs-3 good-img">
+					<img ng-src="{{x.imgsrc}}"/>
+				</div>
+				<div class="col-xs-7 good-info">
+					<div class="good-d" ng-bind = 'x.des'>VCV型从VCVC徐郭德纲的歌发个过分过分</div>
+					<div class="good-cz">
+						<span ng-bind = 'x.pri'>$1135.00</span>
+						<span ng-bind = 'x.size'>XXL</span>
+						<span >-</span>
+						<span ng-bind = 'x.num1'>10</span>
+						<span>+</span>
+					</div>
+					<div class="good-sc">
+						<span class="ion-ios-trash-outline icon-2x"></span>
+					</div>					
+				</div>
+				
+			</div>
+		</ion-content>	
+		
+		
+		<div class="bar bar-footer bar-assertive">
+			{{title1}}
+		</div>
+	</body>
+</html>

@@ -28,7 +28,7 @@
 			
 			<div class="swiper-container">  <!--广告轮播图-->
 			    <div class="swiper-wrapper lunboDetail" > 			    	 
-			    	<div class="swiper-slide"><img ng-src="{{detail0}}"/></div>
+			    	<div class="swiper-slide"><img ng-src="{{detail0}}" id="img-c"/></div>
 			        <div class="swiper-slide"><img ng-src="{{detail1}}"/></div>
 			        <div class="swiper-slide"><img ng-src="{{detail2}}"/></div>
 			        <div class="swiper-slide"><img ng-src="{{detail3}}"/></div>			     			      
@@ -41,8 +41,25 @@
 				<div class="describe1" ng-bind="x.describe1"></div>
 				<div class="describe2" ng-bind="x.describe2"></div>
 				<div class="price" ng-bind="x.price | currency:'￥'"></div>
-				<div class="cz">
-					
+				<div class="cz">					
+					<div class="cz-size">
+						<div class="cz-size-title col-xs-12">尺码</div>
+						<div class="cz-size-size col-xs-3" ng-repeat = "y in x.sizes">
+							{{y.size}}
+						</div>							
+					</div>
+					<div class="cz-num col-xs-12">
+						<div class="cz-num-l col-xs-8">数量:</div>
+						<div class="cz-num-r col-xs-4">
+							<div class="des">-</div><div class="nums">1</div><div class="add">+</div>
+						</div>
+					</div>
+					<div class="col-xs-12">
+						<div class="col-xs-3 yh">正品保证</div>
+						<div class="col-xs-3 yh">7天无理由退换</div>
+						<div class="col-xs-3 yh">极速退款</div>
+						<div class="col-xs-3 yh">运费险</div>											
+					</div>
 				</div>
 				 
 			</div>
@@ -52,9 +69,12 @@
 			<div class="k"></div>
 		</ion-content>
 		<!--底部导航-->
-		<div class="bar bar-footer bar-assertive">
+		<div class="bar bar-footer ">
 			  
-			<div class="title">detail</div>
+			<div class="col-xs-3 foot-jz">detail</div>
+			<div class="col-xs-6 foot-jz button" ng-click="showAlert()">加入购物车</div>
+			<div class="col-xs-3 foot-jz nm">{{good_num}}</div>
+			
 			             
 		</div>
 	</body>
