@@ -28,7 +28,7 @@
 			<div class="good-box " ng-repeat = 'x in repeatGoods'>
 				<div class="col-xs-2 good-t item item-toggle">					  
 				     <label class="toggle toggle-assertive">
-				       <input type="checkbox">
+				       <input type="checkbox" >
 				       	<div class="track">
 			               <div class="handle"></div>
 			            </div>
@@ -40,14 +40,15 @@
 				<div class="col-xs-7 good-info">
 					<div class="good-d" ng-bind = 'x.des'>VCV型从VCVC徐郭德纲的歌发个过分过分</div>
 					<div class="good-cz">
-						<span ng-bind = 'x.pri'>$1135.00</span>
-						<span ng-bind = 'x.size'>XXL</span>
-						<span >-</span>
-						<span ng-bind = 'x.num1'>10</span>
-						<span>+</span>
+						<span ng-bind = "x.pri | currency:'￥'" id="good-pri">$1135.00</span>
+						<span ng-bind = 'x.size' id="good-size">XXL</span>
+						<span id="des" >-</span>
+						<span ng-bind = 'x.num1' id="good-num">10</span>
+						<span id="add">+</span>
 					</div>
 					<div class="good-sc">
-						<span class="ion-ios-trash-outline icon-2x"></span>
+						<span ng-bind = 'x.id' id="good-id"></span>
+						<span class="ion-ios-trash-outline icon-2x" id="remove" ng-click='sx()'></span>
 					</div>					
 				</div>
 				
@@ -55,8 +56,17 @@
 		</ion-content>	
 		
 		
-		<div class="bar bar-footer bar-assertive">
-			{{title1}}
+		<div class="bar bar-footer ">
+			<div class="col-xs-3 foot-jz item item-toggle">
+				<label class="toggle toggle-assertive">
+				       <input type="checkbox" >
+				       	<div class="track">
+			               <div class="handle"></div>
+			            </div>
+				</label> 
+			</div>
+			<div class="col-xs-6 foot-jz button ">加入购物车</div>
+			<div class="col-xs-3 foot-jz nm"></div>
 		</div>
 	</body>
 </html>

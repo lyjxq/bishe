@@ -29,9 +29,9 @@ app.controller('myCtrl-detail',['$scope','$http', '$ionicPopup', '$timeout',func
 //				console.log(ID )
 			
 				var good = localStorage.getItem('str_good')
-			
 				
-				if(good==null){
+				
+				if(good==null  || good=='[]'){
 						
 						var imgsrc = $('#img-c').attr('src');
 						var des = $('.describe1').text();

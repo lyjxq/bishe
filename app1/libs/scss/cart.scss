@@ -66,14 +66,14 @@
                 
             }
             span:nth-child(1){
-                width: 30%; 
+                width: 32%; 
                 height: 30px;
                 line-height: 30px;
                 color: red;
                 font-size: 14px;
             }
             span:nth-child(2){
-                width: 20%; 
+                width: 18%; 
                 height: 30px;
                 line-height: 30px;
                 color: #C4C9CE;
@@ -124,17 +124,68 @@
             height: 30px;
            
             position: relative;
-            span{
+            span:nth-child(1){
+                position: absolute;
+                top: 0px;
+                left: 0%;
+                width: 40px;
+                height: 28px;              
+                text-align: center;
+                font-size: 10px;
+                color: transparent;
+                
+            }
+            span:nth-child(2){
                 position: absolute;
                 top: 0px;
                 left: 80%;
                 width: 28px;
                 height: 28px;
-                border: 1px solid #8C8C8C;
+                border: 1px solid #C4C9CE;
                 text-align: center;
                 font-size: 28px;
-                
+                border-radius: 15px;
+                color: #C4C9CE;
+//              background: #C99390;
             }
         }
     }
+}
+.bar-footer{
+    .item-toggle{
+        border: none;
+        .toggle{
+            margin: 6px;
+//          padding: 5px 0px 5px 0px;
+            position: absolute;
+            top: 0px;
+            left: 0px;                     
+        }
+        .track{
+            width: 37px;
+            height: 17px;
+            .handle{
+                height: 13px;
+                width: 13px;
+            }
+        }
+    }        
+ 
+    .foot-jz{
+        text-align: center;
+        line-height: 36px; 
+        font-size: 12px;
+        color: #908B8B;     
+    }
+    .button{
+        
+        border: none;
+        border-radius: 15px;
+        line-height: 35px;      
+        background-color: #31C37C;
+        color: white;              
+    }
+
+
+
 }
