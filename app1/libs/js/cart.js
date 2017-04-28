@@ -2,7 +2,35 @@ var app = angular.module('myApp-cart',['ionic'])
 app.controller('myCtrl-cart',['$scope','$http', '$ionicPopup', '$timeout',function($scope,$http, $ionicPopup, $timeout){
 	$scope.title = 'cart-header';
 	$scope.title1 = 'cart-footer';
-	
+	   $scope.showConfirm = function() {
+            var confirmPopup = $ionicPopup.confirm({
+               title: '温馨提示',
+               template: '您确定要删除该宝贝吗？',
+               buttons: [{ //Array[Object] (可选)。放在弹窗footer内的按钮。
+				    text: '取消',
+				    type: 'button-default',
+				    onTap: function(e) {
+				      	// 当点击时，e.preventDefault() 会阻止弹窗关闭。
+			      		//e.preventDefault();				     
+				    }
+				  }, {
+				    text: '确认',
+				    type: 'button-balanced',
+				    onTap: function(e) {				    	
+
+				    }
+				}]
+            });
+			confirmPopup.then(function(res) {
+		             
+		   if(res) {
+		         console.log('You are sure');
+		       } else {
+		         console.log('You are not sure');
+		       }
+            
+			});
+        };
 				
 			
 	$scope.jq = function(){
@@ -62,27 +90,26 @@ window.onload = function(){
 		}
 		go()
 	})
-	//删除
-	$('.good-box #remove').on('click',function(){	
-		
-		var size = $(this).closest('.good-box').find('.good-cz').find('#good-size').text()
-		var id = $(this).closest('.good-box').find('.good-sc').find('#good-id').text()
-		console.log(size)
-		console.log(id)
-		var goods = localStorage.getItem('str_good');				
-		var strgood = JSON.parse(goods);
-		console.log(strgood)
-		for(var i=0;i<strgood.length;i++){
-			if(id==strgood[i].id&&size==strgood[i].size){								
-				strgood.splice(i,1)																			
-				var tostr = JSON.stringify(strgood);
-				localStorage.removeItem('str_good')	
-				localStorage.setItem('str_good',tostr)				
+	  	//确认删除
+		$('.good-box #remove').on('click',function(){									
+			var size = $(this ).closest('.good-box').find('.good-cz').find('#good-size').text()
+			var id = $(this).closest('.good-box').find('.good-sc').find('#good-id').text()
+			console.log(size)
+			console.log(id)
+			var goods = localStorage.getItem('str_good');				
+			var strgood = JSON.parse(goods);
+			console.log(strgood)
+			for(var i=0;i<strgood.length;i++){
+				if(id==strgood[i].id&&size==strgood[i].size){								
+					strgood.splice(i,1)																			
+					var tostr = JSON.stringify(strgood);
+					localStorage.removeItem('str_good')	
+					localStorage.setItem('str_good',tostr)				
+				}
 			}
-		}
-		window.location.href = 'cart.html'
-		go()
-	})	
+			window.location.href = 'cart.html'
+			go()
+		})	
 	//单选某件商品
 	$('.good-box input').on('click',function(){
 		//如果有一个商品的选中状态为false则 全选的状态为false
