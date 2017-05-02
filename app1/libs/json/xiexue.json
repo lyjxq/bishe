@@ -1,0 +1,169 @@
+{"data":[
+	{"id":"xx01",
+	"imgUrl":"libs/imgs/xx-01.jpg",	
+	"price":"106",
+	"nums":"6769",	
+	"lImg":{"lImg01":"libs/imgs/xx-01-l01.jpg",
+			"lImg02":"libs/imgs/xx-01-l02.jpg",
+			"lImg03":"libs/imgs/xx-01-l03.jpg",
+			"lImg04":"libs/imgs/xx-01-l04.jpg"
+			},
+	"describe1":"大叔家Ocandy 2017春季新品韩版尖头粗跟交叉带一字扣罗马单鞋女 ",
+	"describe2":"海量新品 潮流穿搭 玩趣互动",
+	"xImg":[
+			{"xImg00":"libs/imgs/xx-01-l05.jpg"},
+			{"xImg00":"libs/imgs/xx-01-l06.jpg"},
+			{"xImg00":"libs/imgs/xx-01-l07.jpg"},
+			{"xImg00":"libs/imgs/xx-01-l08.jpg"}						
+			]
+	},
+	{"id":"xx02",
+	"imgUrl":"libs/imgs/xx-02.jpg",	
+	"price":"158",
+	"nums":"1638",
+	"lImg":{"lImg01":"libs/imgs/xx-02-l01.jpg",
+			"lImg02":"libs/imgs/xx-02-l02.jpg",
+			"lImg03":"libs/imgs/xx-02-l03.jpg",
+			"lImg04":"libs/imgs/xx-02-l04.jpg"
+			},
+	"describe1":"2真皮浅口女鞋2017春新款百搭韩版时尚一字扣单鞋女粗跟小皮鞋子夏 ",
+	"describe2":"海量新品 潮流穿搭 玩趣互动",
+	"xImg":[
+			{"xImg00":"libs/imgs/xx-02-l05.jpg"},
+			{"xImg00":"libs/imgs/xx-02-l06.jpg"},
+			{"xImg00":"libs/imgs/xx-02-l07.jpg"},
+			{"xImg00":"libs/imgs/xx-02-l08.jpg"},
+			{"xImg00":"libs/imgs/xx-02-l09.jpg"},
+			{"xImg00":"libs/imgs/xx-02-l10.jpg"},
+			{"xImg00":"libs/imgs/xx-02-l11.jpg"}					
+			]
+	},
+	{"id":"xx03",
+	"imgUrl":"libs/imgs/xx-03.jpg",	
+	"price":"108",
+	"nums":"1847",
+	"lImg":{"lImg01":"libs/imgs/xx-03-l01.jpg",
+			"lImg02":"libs/imgs/xx-03-l02.jpg",
+			"lImg03":"libs/imgs/xx-03-l03.jpg",
+			"lImg04":"libs/imgs/xx-03-l04.jpg"
+			},
+	"describe1":"单鞋女春天2017新款女春季方扣平底鞋百搭流苏复古英伦风方头女鞋  ",
+	"describe2":"海量新品 潮流穿搭 玩趣互动",
+	"xImg":[
+			{"xImg00":"libs/imgs/xx-03-l05.jpg"},
+			{"xImg00":"libs/imgs/xx-03-l06.jpg"},
+			{"xImg00":"libs/imgs/xx-03-l07.jpg"},
+			{"xImg00":"libs/imgs/xx-03-l08.jpg"},
+			{"xImg00":"libs/imgs/xx-03-l09.jpg"},
+			{"xImg00":"libs/imgs/xx-03-l10.jpg"},
+			{"xImg00":"libs/imgs/xx-03-l11.jpg"},
+			{"xImg00":"libs/imgs/xx-03-l12.jpg"},
+			{"xImg00":"libs/imgs/xx-03-l13.jpg"}						
+			]
+	},
+	{"id":"xx04",
+	"imgUrl":"libs/imgs/xx-04.jpg",	
+	"price":"45",
+	"nums":"2368",
+	"lImg":{"lImg01":"libs/imgs/xx-04-l01.jpg",
+			"lImg02":"libs/imgs/xx-04-l02.jpg",
+			"lImg03":"libs/imgs/xx-04-l03.jpg",
+			"lImg04":"libs/imgs/xx-04-l04.jpg"
+			},
+	"describe1":"韩版帆布鞋女2017春季新款布鞋学生原宿ulzzang小白鞋子百搭板鞋 ",
+	"describe2":"偏日系原宿风的一款帆布鞋，亮点还是在后跟哦。后跟是采用可以踩脚的松紧设计，穿上不仅显脚小而且还不勒脚，踩起后跟也很方便。 而且是这款单鞋有六个颜色可选，几乎能满足每个个性不同的宝宝呢",
+	"xImg":[
+			{"xImg00":"libs/imgs/xx-04-l05.jpg"},
+			{"xImg00":"libs/imgs/xx-04-l06.jpg"},
+			{"xImg00":"libs/imgs/xx-04-l07.jpg"},
+			{"xImg00":"libs/imgs/xx-04-l08.jpg"},
+			{"xImg00":"libs/imgs/xx-04-l09.jpg"},
+			{"xImg00":"libs/imgs/xx-04-l10.jpg"},
+			{"xImg00":"libs/imgs/xx-04-l11.jpg"},
+			{"xImg00":"libs/imgs/xx-04-l12.jpg"},
+			{"xImg00":"libs/imgs/xx-04-l13.jpg"}					
+			]
+	},
+	{"id":"xx05",
+	"imgUrl":"libs/imgs/xx-05.jpg",	
+	"price":"688",
+	"nums":"111",
+	"lImg":{"lImg01":"libs/imgs/xx-05-l01.jpg",
+			"lImg02":"libs/imgs/xx-05-l02.jpg",
+			"lImg03":"libs/imgs/xx-05-l03.jpg",
+			"lImg04":"libs/imgs/xx-05-l04.jpg"
+			},
+	"describe1":" 小辣椒2017夏季凉鞋女鞋粗跟罗马绑带高跟鞋鱼嘴中跟性感复古真皮  ",
+	"describe2":" 难得遇到这么美的罗马凉鞋...有6.5cm和9cm的高跟选择，粗跟设计都走路也不会累；面料采用质感柔顺的磨砂牛皮,内里透气猪皮，透气性ok。绑带的设计感觉非常棒,轻松调节每个部位的肥度,只要你懂的性感，它就能满足你对美的所有欲望！试试",
+	"xImg":[
+			{"xImg00":"libs/imgs/xx-05-l05.jpg"},
+			{"xImg00":"libs/imgs/xx-05-l06.jpg"},
+			{"xImg00":"libs/imgs/xx-05-l07.jpg"},
+			{"xImg00":"libs/imgs/xx-05-l08.jpg"},
+			{"xImg00":"libs/imgs/xx-05-l09.jpg"},
+			{"xImg00":"libs/imgs/xx-05-l10.jpg"},
+			{"xImg00":"libs/imgs/xx-05-l11.jpg"},
+			{"xImg00":"libs/imgs/xx-05-l12.jpg"},
+			{"xImg00":"libs/imgs/xx-05-l13.jpg"}				
+			]
+	},
+	{"id":"xx06",
+	"imgUrl":"libs/imgs/xx-06.jpg",	
+	"price":"75",
+	"nums":"311",
+	"lImg":{"lImg01":"libs/imgs/xx-06-l01.jpg",
+			"lImg02":"libs/imgs/xx-06-l02.jpg",
+			"lImg03":"libs/imgs/xx-06-l03.jpg",
+			"lImg04":"libs/imgs/xx-06-l04.jpg"
+			},
+	"describe1":"粗跟真皮单鞋女一字扣浅口鞋学生中跟玛丽珍女鞋子潮   ",
+	"describe2":" 海量新品 潮流穿搭 玩趣互动",
+	"xImg":[
+			{"xImg00":"libs/imgs/xx-06-l05.jpg"},
+			{"xImg00":"libs/imgs/xx-06-l06.jpg"},
+			{"xImg00":"libs/imgs/xx-06-l07.jpg"},
+			{"xImg00":"libs/imgs/xx-06-l08.jpg"},
+			{"xImg00":"libs/imgs/xx-06-l09.jpg"},
+			{"xImg00":"libs/imgs/xx-06-l10.jpg"},
+			{"xImg00":"libs/imgs/xx-06-l11.jpg"}					
+			]
+	},
+	{"id":"xx07",
+	"imgUrl":"libs/imgs/xx-07.jpg",	
+	"price":"88",
+	"nums":"1410",
+	"lImg":{"lImg01":"libs/imgs/xx-07-l01.jpg",
+			"lImg02":"libs/imgs/xx-07-l02.jpg",
+			"lImg03":"libs/imgs/xx-07-l03.jpg",
+			"lImg04":"libs/imgs/xx-07-l04.jpg"
+			},
+	"describe1":"高跟鞋女2017春夏新款女凉鞋粗跟一字扣尖头性感韩版百搭女鞋单鞋   ",
+	"describe2":" 海量新品 潮流穿搭 玩趣互动",
+	"xImg":[
+			{"xImg00":"libs/imgs/xx-07-l05.jpg"},
+			{"xImg00":"libs/imgs/xx-07-l06.jpg"},
+			{"xImg00":"libs/imgs/xx-07-l07.jpg"},
+			{"xImg00":"libs/imgs/xx-07-l08.jpg"}				
+			]
+	},
+	{"id":"xx08",
+	"imgUrl":"libs/imgs/xx-08.jpg",	
+	"price":"61",
+	"nums":"69",
+	"lImg":{"lImg01":"libs/imgs/xx-08-l01.jpg",
+			"lImg02":"libs/imgs/xx-08-l02.jpg",
+			"lImg03":"libs/imgs/xx-08-l03.jpg",
+			"lImg04":"libs/imgs/xx-08-l04.jpg"
+			},
+	"describe1":"韩版2017春秋亮片兔耳朵草编厚底渔夫鞋平底休闲女单鞋乐福鞋 ",
+	"describe2":" 海量新品 潮流穿搭 玩趣互动 ",
+	"xImg":[
+			{"xImg00":"libs/imgs/xx-08-l05.jpg"},
+			{"xImg00":"libs/imgs/xx-08-l06.jpg"},
+			{"xImg00":"libs/imgs/xx-08-l07.jpg"},
+			{"xImg00":"libs/imgs/xx-08-l08.jpg"},
+			{"xImg00":"libs/imgs/xx-08-l09.jpg"},
+			{"xImg00":"libs/imgs/xx-08-l10.jpg"}					
+			]
+	}
+]}

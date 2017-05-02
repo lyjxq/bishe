@@ -115,7 +115,16 @@
 
 .bar-footer .foot-jz {
   text-align: center;
-  line-height: 44px; }
+  line-height: 44px;
+  position: relative; }
+  .bar-footer .foot-jz .nm {
+    position: absolute;
+    top: -5px;
+    left: 54px;
+    color: #31C37C;
+    height: 18px;
+    line-height: 18px;
+    font-size: 10px; }
 
 .bar-footer .button {
   border: none;

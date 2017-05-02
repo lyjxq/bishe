@@ -19,10 +19,10 @@
 		<script src="libs/js/detail.js" type="text/javascript" charset="utf-8"></script>
 	</head>
 	<body ng-app='myApp-detail' ng-controller='myCtrl-detail'>
-		<div class="bar bar-header bar-assertive">
-			<div class="col-xs-2 center-v"><i class="icon-search icon-2x"></i></div>
-			<div class="col-xs-8 center-v"><input type="text" name="search" id="search" placeholder="Search"/></div>
-			<div class="col-xs-2 center-v"><i class="icon-search icon-2x"></i></div>
+		<div class="bar bar-header ">
+			<div class="col-xs-2 center-v"><i class="ion-ios-arrow-left icon-2x" ng-click='goback()'></i></div>
+			<div class="col-xs-8 center-v"></div>
+			<div class="col-xs-2 center-v"></div>
 		</div>
 		<ion-content class='has-header' >
 			
@@ -73,7 +73,7 @@
 			  
 			<div class="col-xs-3 foot-jz">detail</div>
 			<div class="col-xs-6 foot-jz button" ng-click="showAlert()">加入购物车</div>
-			<div class="col-xs-3 foot-jz nm">{{good_num}}</div>
+			<div class="col-xs-3 foot-jz "><i class="ion-ios-cart-outline icon-2x"></i><span class="nm"></span></div>
 			
 			             
 		</div>

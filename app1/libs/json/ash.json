@@ -649,6 +649,14 @@
 			"lImg03":"libs/imgs/nanz-03-l03.jpg",
 			"lImg04":"libs/imgs/nanz-03-l04.jpg"
 			},
+	"sizes":[{"size":"S"},
+			{"size":"M"},
+			{"size":"L"},
+			{"size":"XL"},
+			{"size":"XXL"},
+			{"size":"3XL"},
+			{"size":"4XL"}
+			],		
 	"describe1":"白衬衫男衬衣长袖夏季职业装商务春修身型青年寸衫 威帝澜卡",
 	"describe2":"【修身免烫商务衬衫】【收藏店铺咨询客服满199减20元】",
 	"xImg":[
@@ -671,6 +679,14 @@
 	"imgUrl":"libs/imgs/nanz-04.jpg",	
 	"price":"85",
 	"nums":"583",
+	"sizes":[{"size":"S"},
+			{"size":"M"},
+			{"size":"L"},
+			{"size":"XL"},
+			{"size":"XXL"},
+			{"size":"3XL"},
+			{"size":"4XL"}
+			],
 	"lImg":{"lImg01":"libs/imgs/nanz-04-l01.jpg",
 			"lImg02":"libs/imgs/nanz-04-l02.jpg",
 			"lImg03":"libs/imgs/nanz-04-l03.jpg",
@@ -690,6 +706,14 @@
 	"imgUrl":"libs/imgs/nanz-05.jpg",	
 	"price":"89",
 	"nums":"224",
+	"sizes":[{"size":"S"},
+			{"size":"M"},
+			{"size":"L"},
+			{"size":"XL"},
+			{"size":"XXL"},
+			{"size":"3XL"},
+			{"size":"4XL"}
+			],
 	"lImg":{"lImg01":"libs/imgs/nanz-05-l01.jpg",
 			"lImg02":"libs/imgs/nanz-05-l02.jpg",
 			"lImg03":"libs/imgs/nanz-05-l03.jpg",
@@ -709,6 +733,14 @@
 	"imgUrl":"libs/imgs/nanz-06.jpg",	
 	"price":"128",
 	"nums":"369",
+	"sizes":[{"size":"S"},
+			{"size":"M"},
+			{"size":"L"},
+			{"size":"XL"},
+			{"size":"XXL"},
+			{"size":"3XL"},
+			{"size":"4XL"}
+			],
 	"lImg":{"lImg01":"libs/imgs/nanz-06-l01.jpg",
 			"lImg02":"libs/imgs/nanz-06-l02.jpg",
 			"lImg03":"libs/imgs/nanz-06-l03.jpg",
@@ -729,6 +761,14 @@
 	"imgUrl":"libs/imgs/nanz-07.jpg",	
 	"price":"109",
 	"nums":"124",
+	"sizes":[{"size":"S"},
+			{"size":"M"},
+			{"size":"L"},
+			{"size":"XL"},
+			{"size":"XXL"},
+			{"size":"3XL"},
+			{"size":"4XL"}
+			],
 	"lImg":{"lImg01":"libs/imgs/nanz-07-l01.jpg",
 			"lImg02":"libs/imgs/nanz-07-l02.jpg",
 			"lImg03":"libs/imgs/nanz-07-l03.jpg",
@@ -750,6 +790,14 @@
 	"imgUrl":"libs/imgs/nanz-08.jpg",	
 	"price":"139",
 	"nums":"336",
+	"sizes":[{"size":"S"},
+			{"size":"M"},
+			{"size":"L"},
+			{"size":"XL"},
+			{"size":"XXL"},
+			{"size":"3XL"},
+			{"size":"4XL"}
+			],
 	"lImg":{"lImg01":"libs/imgs/nanz-08-l01.jpg",
 			"lImg02":"libs/imgs/nanz-08-l02.jpg",
 			"lImg03":"libs/imgs/nanz-08-l03.jpg",
@@ -766,8 +814,1191 @@
 			{"xImg00":"libs/imgs/nanz-08-l10.jpg"},
 			{"xImg00":"libs/imgs/nanz-08-l11.jpg"}					
 			]
+	},
+	
+	
+	{"id":"nv01",
+	"imgUrl":"libs/imgs/nvz-01.jpg",	
+	"price":"69.9",
+	"nums":"1539",
+	"sizes":[{"size":"S"},
+			{"size":"M"},
+			{"size":"L"},
+			{"size":"XL"},
+			{"size":"XXL"}			
+			],
+	"lImg":{"lImg01":"libs/imgs/nvz-01-l01.jpg",
+			"lImg02":"libs/imgs/nvz-01-l02.jpg",
+			"lImg03":"libs/imgs/nvz-01-l03.jpg",
+			"lImg04":"libs/imgs/nvz-01-l04.jpg"
+			},
+	"describe1":"春装新款韩版七分袖挂脖T恤女宽松露肩拼色上衣打底衫撞色体恤潮 ",
+	"describe2":"海量新品 潮流穿搭 玩趣互动",
+	"xImg":[
+			{"xImg00":"libs/imgs/nvz-01-l05.jpg"},
+			{"xImg00":"libs/imgs/nvz-01-l06.jpg"},
+			{"xImg00":"libs/imgs/nvz-01-l07.jpg"},
+			{"xImg00":"libs/imgs/nvz-01-l08.jpg"},
+			{"xImg00":"libs/imgs/nvz-01-l09.jpg"},
+			{"xImg00":"libs/imgs/nvz-01-l10.jpg"},
+			{"xImg00":"libs/imgs/nvz-01-l11.jpg"},
+			{"xImg00":"libs/imgs/nvz-01-l12.jpg"},
+			{"xImg00":"libs/imgs/nvz-01-l13.jpg"}						
+			]
+	},
+	{"id":"nv02",
+	"imgUrl":"libs/imgs/nvz-02.jpg",	
+	"price":"76",
+	"nums":"4983",
+	"sizes":[{"size":"S"},
+			{"size":"M"},
+			{"size":"L"},
+			{"size":"XL"},
+			{"size":"XXL"}		
+			],
+	"lImg":{"lImg01":"libs/imgs/nvz-02-l01.jpg",
+			"lImg02":"libs/imgs/nvz-02-l02.jpg",
+			"lImg03":"libs/imgs/nvz-02-l03.jpg",
+			"lImg04":"libs/imgs/nvz-02-l04.jpg"
+			},
+	"describe1":"2017春季韩版修身V领长袖T恤女时尚休闲纯棉打底衫百搭短款上衣",
+	"describe2":"100%棉麻T恤,厂价直销，穿着舒服 柔软 透气，不缩水不起球 不褪色，修身显瘦，穿着不透，是2017春秋时尚女性理想打底衫，送运费险，支持10天无理由退换货，保证购物无忧！",
+	"xImg":[
+			{"xImg00":"libs/imgs/nvz-02-l05.jpg"},
+			{"xImg00":"libs/imgs/nvz-02-l06.jpg"},
+			{"xImg00":"libs/imgs/nvz-02-l07.jpg"},
+			{"xImg00":"libs/imgs/nvz-02-l08.jpg"},
+			{"xImg00":"libs/imgs/nvz-02-l09.jpg"},
+			{"xImg00":"libs/imgs/nvz-02-l10.jpg"},
+			{"xImg00":"libs/imgs/nvz-02-l11.jpg"},
+			{"xImg00":"libs/imgs/nvz-02-l12.jpg"},
+			{"xImg00":"libs/imgs/nvz-02-l13.jpg"},
+			{"xImg00":"libs/imgs/nvz-02-l14.jpg"},
+			{"xImg00":"libs/imgs/nvz-02-l15.jpg"},
+			{"xImg00":"libs/imgs/nvz-02-l16.jpg"}						
+			]
+	},
+	{"id":"nv03",
+	"imgUrl":"libs/imgs/nvz-03.jpg",	
+	"price":"65",
+	"nums":"6697",
+	"sizes":[{"size":"S"},
+			{"size":"M"},
+			{"size":"L"},
+			{"size":"XL"},
+			{"size":"XXL"}			
+			],
+	"lImg":{"lImg01":"libs/imgs/nvz-03-l01.jpg",
+			"lImg02":"libs/imgs/nvz-03-l02.jpg",
+			"lImg03":"libs/imgs/nvz-03-l03.jpg",
+			"lImg04":"libs/imgs/nvz-03-l04.jpg"
+			},
+	"describe1":"优雅九分袖蕾丝打底衫女式t恤衫短款 韩版宽松显瘦小衫灯笼袖上衣 ",
+	"describe2":"海量新品 潮流穿搭 玩趣互动",
+	"xImg":[
+			{"xImg00":"libs/imgs/nvz-03-l05.jpg"},
+			{"xImg00":"libs/imgs/nvz-03-l06.jpg"},
+			{"xImg00":"libs/imgs/nvz-03-l07.jpg"},
+			{"xImg00":"libs/imgs/nvz-03-l08.jpg"},
+			{"xImg00":"libs/imgs/nvz-03-l09.jpg"},
+			{"xImg00":"libs/imgs/nvz-03-l10.jpg"},
+			{"xImg00":"libs/imgs/nvz-03-l11.jpg"},
+			{"xImg00":"libs/imgs/nvz-03-l12.jpg"},
+			{"xImg00":"libs/imgs/nvz-03-l13.jpg"},
+			{"xImg00":"libs/imgs/nvz-03-l14.jpg"},
+			{"xImg00":"libs/imgs/nvz-03-l15.jpg"}						
+			]
+	},
+	{"id":"nv04",
+	"imgUrl":"libs/imgs/nvz-04.jpg",	
+	"price":"368",
+	"nums":"34",
+	"sizes":[{"size":"S"},
+			{"size":"M"},
+			{"size":"L"},
+			{"size":"XL"},
+			{"size":"XXL"}			
+			],
+	"lImg":{"lImg01":"libs/imgs/nvz-04-l01.jpg",
+			"lImg02":"libs/imgs/nvz-04-l02.jpg",
+			"lImg03":"libs/imgs/nvz-04-l03.jpg",
+			"lImg04":"libs/imgs/nvz-04-l04.jpg"
+			},
+	"describe1":"Lin Edition Limit 不规则毛边Navy blue牛仔短裤 翘臀神器之一 ",
+	"describe2":" 海量新品 潮流穿搭 玩趣互动",
+	"xImg":[
+			{"xImg00":"libs/imgs/nvz-04-l05.jpg"},
+			{"xImg00":"libs/imgs/nvz-04-l06.jpg"},
+			{"xImg00":"libs/imgs/nvz-04-l07.jpg"},
+			{"xImg00":"libs/imgs/nvz-04-l08.jpg"},
+			{"xImg00":"libs/imgs/nvz-04-l09.jpg"},
+			{"xImg00":"libs/imgs/nvz-04-l10.jpg"},
+			{"xImg00":"libs/imgs/nvz-04-l11.jpg"},
+			{"xImg00":"libs/imgs/nvz-04-l12.jpg"},
+			{"xImg00":"libs/imgs/nvz-04-l13.jpg"},
+			{"xImg00":"libs/imgs/nvz-04-l14.jpg"}					
+			]
+	},
+	{"id":"nv05",
+	"imgUrl":"libs/imgs/nvz-05.jpg",	
+	"price":"288",
+	"nums":"166",
+	"sizes":[{"size":"S"},
+			{"size":"M"},
+			{"size":"L"},
+			{"size":"XL"},
+			{"size":"XXL"}			
+			],
+	"lImg":{"lImg01":"libs/imgs/nvz-05-l01.jpg",
+			"lImg02":"libs/imgs/nvz-05-l02.jpg",
+			"lImg03":"libs/imgs/nvz-05-l03.jpg",
+			"lImg04":"libs/imgs/nvz-05-l04.jpg"
+			},
+	"describe1":"BettyChow17春装新款 不对称斜扣显瘦针织百搭不规则开衫外套女 ",
+	"describe2":" 海量新品 潮流穿搭 玩趣互动",
+	"xImg":[
+			{"xImg00":"libs/imgs/nvz-05-l05.jpg"},
+			{"xImg00":"libs/imgs/nvz-05-l06.jpg"},
+			{"xImg00":"libs/imgs/nvz-05-l07.jpg"},
+			{"xImg00":"libs/imgs/nvz-05-l08.jpg"},
+			{"xImg00":"libs/imgs/nvz-05-l09.jpg"},
+			{"xImg00":"libs/imgs/nvz-05-l10.jpg"},
+			{"xImg00":"libs/imgs/nvz-05-l11.jpg"},
+			{"xImg00":"libs/imgs/nvz-05-l12.jpg"}				
+			]
+	},
+	{"id":"nv06",
+	"imgUrl":"libs/imgs/nvz-06.jpg",	
+	"price":"220.9",
+	"nums":"116",
+	"sizes":[{"size":"S"},
+			{"size":"M"},
+			{"size":"L"},
+			{"size":"XL"},
+			{"size":"XXL"}			
+			],
+	"lImg":{"lImg01":"libs/imgs/nvz-06-l01.jpg",
+			"lImg02":"libs/imgs/nvz-06-l02.jpg",
+			"lImg03":"libs/imgs/nvz-06-l03.jpg",
+			"lImg04":"libs/imgs/nvz-06-l04.jpg"
+			},
+	"describe1":"◆ASM2016S/S◆小复古华丽风系列 特殊银丝针织纹理OP/宽带背心  ",
+	"describe2":" 海量新品 潮流穿搭 玩趣互动",
+	"xImg":[
+			{"xImg00":"libs/imgs/nvz-06-l05.jpg"},
+			{"xImg00":"libs/imgs/nvz-06-l06.jpg"},
+			{"xImg00":"libs/imgs/nvz-06-l07.jpg"},
+			{"xImg00":"libs/imgs/nvz-06-l08.jpg"}					
+			]
+	},
+	{"id":"nv07",
+	"imgUrl":"libs/imgs/nvz-07.jpg",	
+	"price":"59",
+	"nums":"8561",
+	"sizes":[{"size":"S"},
+			{"size":"M"},
+			{"size":"L"},
+			{"size":"XL"},
+			{"size":"XXL"}			
+			],
+	"lImg":{"lImg01":"libs/imgs/nvz-07-l01.jpg",
+			"lImg02":"libs/imgs/nvz-07-l02.jpg",
+			"lImg03":"libs/imgs/nvz-07-l03.jpg",
+			"lImg04":"libs/imgs/nvz-07-l04.jpg"
+			},
+	"describe1":"韩版中长款百搭宽松短袖白t恤女学生个性bf风破洞卡通印花大体恤  ",
+	"describe2":" 自制款TEE！这款T恤真的敲好看，彩色的英文字母印花很韩范！简洁的圆领, 宽松大版型中长款，很舒服很特别的棉麻面料，兼具棉和麻的特点，敲有质感和档次，中等厚度，四季百搭！秋冬可在里面搭配一件长袖打底T恤，外面再套件羽绒棉衣，炒鸡有范！夏季搭配短裤单穿，简直不能更爱了~ ，性价比敲高！对于身材的包容",
+	"xImg":[
+			{"xImg00":"libs/imgs/nvz-07-l05.jpg"},
+			{"xImg00":"libs/imgs/nvz-07-l06.jpg"},
+			{"xImg00":"libs/imgs/nvz-07-l07.jpg"},
+			{"xImg00":"libs/imgs/nvz-07-l08.jpg"},
+			{"xImg00":"libs/imgs/nvz-07-l09.jpg"},
+			{"xImg00":"libs/imgs/nvz-06-l10.jpg"},
+			{"xImg00":"libs/imgs/nvz-06-l11.jpg"},
+			{"xImg00":"libs/imgs/nvz-06-l12.jpg"}					
+			]
+	},
+	{"id":"n08",
+	"imgUrl":"libs/imgs/nvz-08.jpg",	
+	"price":"229",
+	"nums":"286",
+	"sizes":[{"size":"S"},
+			{"size":"M"},
+			{"size":"L"},
+			{"size":"XL"},
+			{"size":"XXL"}			
+			],
+	"lImg":{"lImg01":"libs/imgs/nvz-08-l01.jpg",
+			"lImg02":"libs/imgs/nvz-08-l02.jpg",
+			"lImg03":"libs/imgs/nvz-08-l03.jpg",
+			"lImg04":"libs/imgs/nvz-08-l04.jpg"
+			},
+	"describe1":"小镇姗姗 风之霓裳 宫廷风优雅女神精致刺绣蕾丝礼服裙长裙",
+	"describe2":" 海量新品 潮流穿搭 玩趣互动 ",
+	"xImg":[
+			{"xImg00":"libs/imgs/nvz-08-l05.jpg"},
+			{"xImg00":"libs/imgs/nvz-08-l06.jpg"},
+			{"xImg00":"libs/imgs/nvz-08-l07.jpg"},
+			{"xImg00":"libs/imgs/nvz-08-l08.jpg"},
+			{"xImg00":"libs/imgs/nvz-08-l09.jpg"}					
+			]
+	},
+	
+	
+	{"id":"xx01",
+	"imgUrl":"libs/imgs/xx-01.jpg",	
+	"price":"106",
+	"nums":"6769",
+	"sizes":[{"size":"35"},
+			{"size":"36"},
+			{"size":"37"},
+			{"size":"38"},
+			{"size":"39"}			
+			],	
+	"lImg":{"lImg01":"libs/imgs/xx-01-l01.jpg",
+			"lImg02":"libs/imgs/xx-01-l02.jpg",
+			"lImg03":"libs/imgs/xx-01-l03.jpg",
+			"lImg04":"libs/imgs/xx-01-l04.jpg"
+			},
+	"describe1":"大叔家Ocandy 2017春季新品韩版尖头粗跟交叉带一字扣罗马单鞋女 ",
+	"describe2":"海量新品 潮流穿搭 玩趣互动",
+	"xImg":[
+			{"xImg00":"libs/imgs/xx-01-l05.jpg"},
+			{"xImg00":"libs/imgs/xx-01-l06.jpg"},
+			{"xImg00":"libs/imgs/xx-01-l07.jpg"},
+			{"xImg00":"libs/imgs/xx-01-l08.jpg"}						
+			]
+	},
+	{"id":"xx02",
+	"imgUrl":"libs/imgs/xx-02.jpg",	
+	"price":"158",
+	"nums":"1638",
+	"sizes":[{"size":"35"},
+			{"size":"36"},
+			{"size":"37"},
+			{"size":"38"},
+			{"size":"39"}			
+			],		
+	"lImg":{"lImg01":"libs/imgs/xx-02-l01.jpg",
+			"lImg02":"libs/imgs/xx-02-l02.jpg",
+			"lImg03":"libs/imgs/xx-02-l03.jpg",
+			"lImg04":"libs/imgs/xx-02-l04.jpg"
+			},
+	"describe1":"2真皮浅口女鞋2017春新款百搭韩版时尚一字扣单鞋女粗跟小皮鞋子夏 ",
+	"describe2":"海量新品 潮流穿搭 玩趣互动",
+	"xImg":[
+			{"xImg00":"libs/imgs/xx-02-l05.jpg"},
+			{"xImg00":"libs/imgs/xx-02-l06.jpg"},
+			{"xImg00":"libs/imgs/xx-02-l07.jpg"},
+			{"xImg00":"libs/imgs/xx-02-l08.jpg"},
+			{"xImg00":"libs/imgs/xx-02-l09.jpg"},
+			{"xImg00":"libs/imgs/nvz-02-l10.jpg"},
+			{"xImg00":"libs/imgs/nvz-02-l11.jpg"}					
+			]
+	},
+	{"id":"xx03",
+	"imgUrl":"libs/imgs/xx-03.jpg",	
+	"price":"108",
+	"nums":"1847",
+	"sizes":[{"size":"35"},
+			{"size":"36"},
+			{"size":"37"},
+			{"size":"38"},
+			{"size":"39"}			
+			],
+	"lImg":{"lImg01":"libs/imgs/xx-03-l01.jpg",
+			"lImg02":"libs/imgs/xx-03-l02.jpg",
+			"lImg03":"libs/imgs/xx-03-l03.jpg",
+			"lImg04":"libs/imgs/xx-03-l04.jpg"
+			},
+	"describe1":"单鞋女春天2017新款女春季方扣平底鞋百搭流苏复古英伦风方头女鞋  ",
+	"describe2":"海量新品 潮流穿搭 玩趣互动",
+	"xImg":[
+			{"xImg00":"libs/imgs/xx-03-l05.jpg"},
+			{"xImg00":"libs/imgs/xx-03-l06.jpg"},
+			{"xImg00":"libs/imgs/xx-03-l07.jpg"},
+			{"xImg00":"libs/imgs/xx-03-l08.jpg"},
+			{"xImg00":"libs/imgs/xx-03-l09.jpg"},
+			{"xImg00":"libs/imgs/xx-03-l10.jpg"},
+			{"xImg00":"libs/imgs/xx-03-l11.jpg"},
+			{"xImg00":"libs/imgs/xx-03-l12.jpg"},
+			{"xImg00":"libs/imgs/xx-03-l13.jpg"}						
+			]
+	},
+	{"id":"xx04",
+	"imgUrl":"libs/imgs/xx-04.jpg",	
+	"price":"45",
+	"nums":"2368",
+	"sizes":[{"size":"35"},
+			{"size":"36"},
+			{"size":"37"},
+			{"size":"38"},
+			{"size":"39"}			
+			],
+	"lImg":{"lImg01":"libs/imgs/xx-04-l01.jpg",
+			"lImg02":"libs/imgs/xx-04-l02.jpg",
+			"lImg03":"libs/imgs/xx-04-l03.jpg",
+			"lImg04":"libs/imgs/xx-04-l04.jpg"
+			},
+	"describe1":"韩版帆布鞋女2017春季新款布鞋学生原宿ulzzang小白鞋子百搭板鞋 ",
+	"describe2":"偏日系原宿风的一款帆布鞋，亮点还是在后跟哦。后跟是采用可以踩脚的松紧设计，穿上不仅显脚小而且还不勒脚，踩起后跟也很方便。 而且是这款单鞋有六个颜色可选，几乎能满足每个个性不同的宝宝呢",
+	"xImg":[
+			{"xImg00":"libs/imgs/xx-04-l05.jpg"},
+			{"xImg00":"libs/imgs/xx-04-l06.jpg"},
+			{"xImg00":"libs/imgs/xx-04-l07.jpg"},
+			{"xImg00":"libs/imgs/xx-04-l08.jpg"},
+			{"xImg00":"libs/imgs/xx-04-l09.jpg"},
+			{"xImg00":"libs/imgs/xx-04-l10.jpg"},
+			{"xImg00":"libs/imgs/xx-04-l11.jpg"},
+			{"xImg00":"libs/imgs/xx-04-l12.jpg"},
+			{"xImg00":"libs/imgs/xx-04-l13.jpg"}					
+			]
+	},
+	{"id":"xx05",
+	"imgUrl":"libs/imgs/xx-05.jpg",	
+	"price":"688",
+	"nums":"111",
+	"sizes":[{"size":"35"},
+			{"size":"36"},
+			{"size":"37"},
+			{"size":"38"},
+			{"size":"39"}			
+			],
+	"lImg":{"lImg01":"libs/imgs/xx-05-l01.jpg",
+			"lImg02":"libs/imgs/xx-05-l02.jpg",
+			"lImg03":"libs/imgs/xx-05-l03.jpg",
+			"lImg04":"libs/imgs/xx-05-l04.jpg"
+			},
+	"describe1":" 小辣椒2017夏季凉鞋女鞋粗跟罗马绑带高跟鞋鱼嘴中跟性感复古真皮  ",
+	"describe2":" 难得遇到这么美的罗马凉鞋...有6.5cm和9cm的高跟选择，粗跟设计都走路也不会累；面料采用质感柔顺的磨砂牛皮,内里透气猪皮，透气性ok。绑带的设计感觉非常棒,轻松调节每个部位的肥度,只要你懂的性感，它就能满足你对美的所有欲望！试试",
+	"xImg":[
+			{"xImg00":"libs/imgs/xx-05-l05.jpg"},
+			{"xImg00":"libs/imgs/xx-05-l06.jpg"},
+			{"xImg00":"libs/imgs/xx-05-l07.jpg"},
+			{"xImg00":"libs/imgs/xx-05-l08.jpg"},
+			{"xImg00":"libs/imgs/xx-05-l09.jpg"},
+			{"xImg00":"libs/imgs/xx-05-l10.jpg"},
+			{"xImg00":"libs/imgs/xx-05-l11.jpg"},
+			{"xImg00":"libs/imgs/xx-05-l12.jpg"},
+			{"xImg00":"libs/imgs/xx-05-l13.jpg"}				
+			]
+	},
+	{"id":"xx06",
+	"imgUrl":"libs/imgs/xx-06.jpg",	
+	"price":"75",
+	"nums":"311",
+	"sizes":[{"size":"35"},
+			{"size":"36"},
+			{"size":"37"},
+			{"size":"38"},
+			{"size":"39"}			
+			],
+	"lImg":{"lImg01":"libs/imgs/xx-06-l01.jpg",
+			"lImg02":"libs/imgs/xx-06-l02.jpg",
+			"lImg03":"libs/imgs/xx-06-l03.jpg",
+			"lImg04":"libs/imgs/xx-06-l04.jpg"
+			},
+	"describe1":"粗跟真皮单鞋女一字扣浅口鞋学生中跟玛丽珍女鞋子潮   ",
+	"describe2":" 海量新品 潮流穿搭 玩趣互动",
+	"xImg":[
+			{"xImg00":"libs/imgs/xx-06-l05.jpg"},
+			{"xImg00":"libs/imgs/xx-06-l06.jpg"},
+			{"xImg00":"libs/imgs/xx-06-l07.jpg"},
+			{"xImg00":"libs/imgs/xx-06-l08.jpg"},
+			{"xImg00":"libs/imgs/xx-06-l09.jpg"},
+			{"xImg00":"libs/imgs/xx-06-l10.jpg"},
+			{"xImg00":"libs/imgs/xx-06-l11.jpg"}					
+			]
+	},
+	{"id":"xx07",
+	"imgUrl":"libs/imgs/xx-07.jpg",	
+	"price":"88",
+	"nums":"1410",
+	"sizes":[{"size":"35"},
+			{"size":"36"},
+			{"size":"37"},
+			{"size":"38"},
+			{"size":"39"}			
+			],
+	"lImg":{"lImg01":"libs/imgs/xx-07-l01.jpg",
+			"lImg02":"libs/imgs/xx-07-l02.jpg",
+			"lImg03":"libs/imgs/xx-07-l03.jpg",
+			"lImg04":"libs/imgs/xx-07-l04.jpg"
+			},
+	"describe1":"高跟鞋女2017春夏新款女凉鞋粗跟一字扣尖头性感韩版百搭女鞋单鞋   ",
+	"describe2":" 海量新品 潮流穿搭 玩趣互动",
+	"xImg":[
+			{"xImg00":"libs/imgs/xx-07-l05.jpg"},
+			{"xImg00":"libs/imgs/xx-07-l06.jpg"},
+			{"xImg00":"libs/imgs/xx-07-l07.jpg"},
+			{"xImg00":"libs/imgs/xx-07-l08.jpg"}				
+			]
+	},
+	{"id":"xx08",
+	"imgUrl":"libs/imgs/xx-08.jpg",	
+	"price":"61",
+	"nums":"69",
+	"sizes":[{"size":"35"},
+			{"size":"36"},
+			{"size":"37"},
+			{"size":"38"},
+			{"size":"39"}			
+			],
+	"lImg":{"lImg01":"libs/imgs/xx-08-l01.jpg",
+			"lImg02":"libs/imgs/xx-08-l02.jpg",
+			"lImg03":"libs/imgs/xx-08-l03.jpg",
+			"lImg04":"libs/imgs/xx-08-l04.jpg"
+			},
+	"describe1":"韩版2017春秋亮片兔耳朵草编厚底渔夫鞋平底休闲女单鞋乐福鞋 ",
+	"describe2":" 海量新品 潮流穿搭 玩趣互动 ",
+	"xImg":[
+			{"xImg00":"libs/imgs/xx-08-l05.jpg"},
+			{"xImg00":"libs/imgs/xx-08-l06.jpg"},
+			{"xImg00":"libs/imgs/xx-08-l07.jpg"},
+			{"xImg00":"libs/imgs/xx-08-l08.jpg"},
+			{"xImg00":"libs/imgs/xx-08-l09.jpg"},
+			{"xImg00":"libs/imgs/xx-08-l10.jpg"}					
+			]
+	},
+	
+	{"id":"sm01",
+	"imgUrl":"libs/imgs/sm-01.jpg",	
+	"price":"21.9",
+	"nums":"4379",
+	"sizes":[{"size":"银色 65cm"},
+			{"size":"银色 110cm"},						
+			{"size":"黑色 110cm"}		
+			],	
+	"lImg":{"lImg01":"libs/imgs/sm-01-l01.jpg",
+			"lImg02":"libs/imgs/sm-01-l02.jpg",
+			"lImg03":"libs/imgs/sm-01-l03.jpg",
+			"lImg04":"libs/imgs/sm-01-l04.jpg"
+			},
+	"describe1":"手机直播支架三脚架主播桌面便携拍照ipad平板三角架床头苹果映客  ",
+	"describe2":"",
+	"xImg":[
+			{"xImg00":"libs/imgs/sm-01-l05.jpg"},
+			{"xImg00":"libs/imgs/sm-01-l06.jpg"},
+			{"xImg00":"libs/imgs/sm-01-l07.jpg"},
+			{"xImg00":"libs/imgs/sm-01-l08.jpg"},
+			{"xImg00":"libs/imgs/sm-01-l09.jpg"},
+			{"xImg00":"libs/imgs/sm-01-l10.jpg"},
+			{"xImg00":"libs/imgs/sm-01-l11.jpg"},
+			{"xImg00":"libs/imgs/sm-01-l12.jpg"},
+			{"xImg00":"libs/imgs/sm-01-l13.jpg"},
+			{"xImg00":"libs/imgs/sm-01-l14.jpg"}						
+			]
+	},
+	{"id":"sm02",
+	"imgUrl":"libs/imgs/sm-02.jpg",	
+	"price":"69.8",
+	"nums":"531",
+	"sizes":[{"size":"白玉兰"},
+			{"size":"简约"},
+			{"size":"野马"},			
+			{"size":"红色马里奥"},
+			{"size":"熔岩"}			
+			],
+	"lImg":{"lImg01":"libs/imgs/sm-02-l01.jpg",
+			"lImg02":"libs/imgs/sm-02-l02.jpg",
+			"lImg03":"libs/imgs/sm-02-l03.jpg",
+			"lImg04":"libs/imgs/sm-02-l04.jpg"
+			},
+	"describe1":"MeSkins iphone7手机壳7plus保护套防摔苹果7手机壳plus磨砂7p潮  ",
+	"describe2":"iPhone7/7plus已正式发布，MeSkins紧跟步伐也已准备好手机壳，给果粉们发福利喽~，现在购买疯7手机壳买二送一！，早早把壳子准备好，疯7到手第一时间就可以用啦~色彩全包不掉色，超硬耐摔，不发黄，无异味，追求品质的亲可别错过哦~！",
+	"xImg":[
+			{"xImg00":"libs/imgs/sm-02-l05.jpg"},
+			{"xImg00":"libs/imgs/sm-02-l06.jpg"},
+			{"xImg00":"libs/imgs/sm-02-l07.jpg"},
+			{"xImg00":"libs/imgs/sm-02-l08.jpg"},
+			{"xImg00":"libs/imgs/sm-02-l09.jpg"},
+			{"xImg00":"libs/imgs/sm-02-l10.jpg"}					
+			]
+	},
+	{"id":"sm03",
+	"imgUrl":"libs/imgs/sm-03.jpg",	
+	"price":"2998",
+	"nums":"205",
+	"sizes":[{"size":"国行黑色"},
+			{"size":"国行白色"},
+			{"size":"银色"},			
+			{"size":"新石墨灰"}		
+			],
+	"lImg":{"lImg01":"libs/imgs/sm-03-l01.jpg",
+			"lImg02":"libs/imgs/sm-03-l02.jpg",
+			"lImg03":"libs/imgs/sm-03-l03.jpg",
+			"lImg04":"libs/imgs/sm-03-l04.jpg"
+			},
+	"describe1":"实在山东人国行索尼a6000微单相机 数码高清ILCE-6000L 16-50套机   ",
+	"describe2":"179点相位检测4D对焦，高速连拍高达11张/秒，搭载BIONZ X影像处理器，优化区域降噪，内置NFC和WIFI轻松分享，拥有电子取景器，2400万像素。",
+	"xImg":[
+			{"xImg00":"libs/imgs/sm-03-l01.jpg"},
+			{"xImg00":"libs/imgs/sm-03-l02.jpg"},
+			{"xImg00":"libs/imgs/sm-03-l03.jpg"},
+			{"xImg00":"libs/imgs/sm-03-l04.jpg"}						
+			]
+	},
+	{"id":"sm04",
+	"imgUrl":"libs/imgs/sm-04.jpg",	
+	"price":"1388",
+	"nums":"15",
+	"sizes":[{"size":"黑色"},
+			{"size":"白色"},
+			{"size":"银色"},			
+			{"size":"新石墨灰"}		
+			],
+	"lImg":{"lImg01":"libs/imgs/sm-04-l01.jpg",
+			"lImg02":"libs/imgs/sm-04-l02.jpg",
+			"lImg03":"libs/imgs/sm-04-l03.jpg",
+			"lImg04":"libs/imgs/sm-04-l04.jpg"
+			},
+	"describe1":" 三星Gear 360全景相机 VR专用摄像机 内容制作运动智能相机现货 ",
+	"describe2":"三星Gear 360于今年2月份的时候发布的，是主要拍摄VR内容制作，720度全景无死角，像素达到近4K画质，更好的画质，更方便的操作，产品均有大量现货，当天六点前下单，当天可以发出",
+	"xImg":[
+			{"xImg00":"libs/imgs/sm-04-l01.jpg"},
+			{"xImg00":"libs/imgs/sm-04-l02.jpg"},
+			{"xImg00":"libs/imgs/sm-04-l03.jpg"},
+			{"xImg00":"libs/imgs/sm-04-l04.jpg"}					
+			]
+	},
+	{"id":"sm05",
+	"imgUrl":"libs/imgs/sm-05.jpg",	
+	"price":"1498",
+	"nums":"11",
+	"sizes":[{"size":"黑色"},
+			{"size":"白色"},
+			{"size":"银色"},			
+			{"size":"新石墨灰"}		
+			],
+	"lImg":{"lImg01":"libs/imgs/sm-05-l01.jpg",
+			"lImg02":"libs/imgs/sm-05-l02.jpg",
+			"lImg03":"libs/imgs/sm-05-l01.jpg",
+			"lImg04":"libs/imgs/sm-05-l02.jpg"
+			},
+	"describe1":" 守望先锋八核六核电脑主机diy游戏独显台式组装迷你整机全套i5i7   ",
+	"describe2":" 畅玩游戏 英特尔六核12线程5640神U 8G内存 高端显卡，高速固态硬盘，三年质保+15天包退换， 家庭娱乐影音，办公,高端设计,游戏发烧友,网吧,工作室,游戏主播】【5年不落后!7年不淘汰】",
+	"xImg":[
+			{"xImg00":"libs/imgs/sm-05-l01.jpg"},
+			{"xImg00":"libs/imgs/sm-05-l02.jpg"}			
+			]
+	},
+	{"id":"sm06",
+	"imgUrl":"libs/imgs/sm-06.jpg",	
+	"price":"38",
+	"nums":"12",
+	"sizes":[{"size":"黑色"},
+			{"size":"白色"},
+			{"size":"银色"},			
+			{"size":"新石墨灰"}		
+			],
+	"lImg":{"lImg01":"libs/imgs/sm-06-l01.jpg",
+			"lImg02":"libs/imgs/sm-06-l02.jpg",
+			"lImg03":"libs/imgs/sm-06-l03.jpg",
+			"lImg04":"libs/imgs/sm-06-l04.jpg"
+			},
+	"describe1":"暴风魔镜小M vr眼镜虚拟现实3d眼镜手机头戴式头盔影院高清一体机   ",
+	"describe2":" 暴风新品小m",
+	"xImg":[
+			{"xImg00":"libs/imgs/sm-06-l01.jpg"},
+			{"xImg00":"libs/imgs/sm-06-l02.jpg"},
+			{"xImg00":"libs/imgs/sm-06-l03.jpg"},
+			{"xImg00":"libs/imgs/sm-06-l04.jpg"}					
+			]
+	},
+	{"id":"sm07",
+	"imgUrl":"libs/imgs/sm-07.jpg",	
+	"price":"5460",
+	"nums":"195",
+	"sizes":[{"size":"国行黑色"},
+			{"size":"国行白色"},
+			{"size":"银色"},			
+			{"size":"新石墨灰"}		
+			],	
+	"lImg":{"lImg01":"libs/imgs/sm-07-l01.jpg",
+			"lImg02":"libs/imgs/sm-07-l02.jpg",
+			"lImg03":"libs/imgs/sm-07-l03.jpg",
+			"lImg04":"libs/imgs/sm-07-l02.jpg"
+			},
+	"describe1":"Apple/苹果 iPad pro 现货 WIFI 新款 12.9寸平板电脑 4G /港版  ",
+	"describe2":" 2015年9月10日官方发布新款！ 12.9 英寸 Retina 显示屏，近两倍于 iPad Air 2 的中央处理器性能，图形处理器性能是其两倍。采用 64 位台式电脑级架构的芯片：全新 A9X。iOS 9系统。它薄至 6.9 毫米，轻至 713 克。实现了轻巧纤薄与格外坚固的卓越平衡。",
+	"xImg":[
+			{"xImg00":"libs/imgs/sm-07-l01.jpg"},
+			{"xImg00":"libs/imgs/sm-07-l02.jpg"},
+			{"xImg00":"libs/imgs/sm-07-l03.jpg"}				
+			]
+	},
+	{"id":"sm08",
+	"imgUrl":"libs/imgs/sm-08.jpg",	
+	"price":"1799",
+	"nums":"3",
+	"sizes":[{"size":"国行黑色"},
+			{"size":"国行白色"},
+			{"size":"银色"},			
+			{"size":"官方标配"}		
+			],
+	"lImg":{"lImg01":"libs/imgs/sm-08-l01.jpg",
+			"lImg02":"libs/imgs/sm-08-l02.jpg",
+			"lImg03":"libs/imgs/sm-08-l03.jpg",
+			"lImg04":"libs/imgs/sm-08-l04.jpg"
+			},
+	"describe1":"易美逊2K高清显示屏 P321WHQI 32英寸三星屏无边框网吧电脑显示器 ",
+	"describe2":" 大屏就选2K 超清分辨率 高性价比",
+	"xImg":[
+			{"xImg00":"libs/imgs/sm-08-l01.jpg"},
+			{"xImg00":"libs/imgs/sm-08-l02.jpg"},
+			{"xImg00":"libs/imgs/sm-08-l03.jpg"},
+			{"xImg00":"libs/imgs/sm-08-l04.jpg"}					
+			]
+	},
+	
+	
+	{"id":"meiz01",
+	"imgUrl":"libs/imgs/meiz-01.jpg",	
+	"price":"19.8",
+	"nums":"152",
+	"sizes":[{"size":"55ml"},
+			{"size":"100ml"},
+			{"size":"120ml"},			
+			{"size":"300ml"}			
+			],	
+	"lImg":{"lImg01":"libs/imgs/meiz-01-l01.jpg",
+			"lImg02":"libs/imgs/meiz-01-l02.jpg",
+			"lImg03":"libs/imgs/meiz-01-l03.jpg",
+			"lImg04":"libs/imgs/meiz-01-l04.jpg"
+			},
+	"describe1":"泰国正品代购Mistine婴儿隔离BB霜裸妆遮瑕防晒美白保湿控油轻薄  ",
+	"describe2":"泰国品牌 韩国研制 mistine的BB霜非常好用贴肤，完全不输给任何大牌，也是我个人非常喜欢的单品！【现有活动 购买套餐即0元得泰国去黑头水哦，机会难得 ，仅50套，描述下拉拍套餐】",
+	"xImg":[
+			{"xImg00":"libs/imgs/meiz-01-l05.jpg"},
+			{"xImg00":"libs/imgs/meiz-01-l06.jpg"},
+			{"xImg00":"libs/imgs/meiz-01-l07.jpg"},
+			{"xImg00":"libs/imgs/meiz-01-l08.jpg"},
+			{"xImg00":"libs/imgs/meiz-01-l09.jpg"},
+			{"xImg00":"libs/imgs/meiz-01-l10.jpg"}					
+			]
+	},
+	{"id":"meiz02",
+	"imgUrl":"libs/imgs/meiz-02.jpg",	
+	"price":"126",
+	"nums":"2537",
+	"sizes":[{"size":"55ml"},
+			{"size":"100ml"},
+			{"size":"120ml"},			
+			{"size":"300ml"}			
+			],
+	"lImg":{"lImg01":"libs/imgs/meiz-02-l01.jpg",
+			"lImg02":"libs/imgs/meiz-02-l02.jpg",
+			"lImg03":"libs/imgs/meiz-02-l03.jpg",
+			"lImg04":"libs/imgs/meiz-02-l04.jpg"
+			},
+	"describe1":"日本cecile maia CM脱毛膏男女四肢腋下比基尼线快速温和除毛脱毛 ",
+	"describe2":"",
+	"xImg":[
+			{"xImg00":"libs/imgs/meiz-02-l05.jpg"},
+			{"xImg00":"libs/imgs/meiz-02-l06.jpg"},
+			{"xImg00":"libs/imgs/meiz-02-l07.jpg"},
+			{"xImg00":"libs/imgs/meiz-02-l08.jpg"},
+			{"xImg00":"libs/imgs/meiz-02-l09.jpg"},
+			{"xImg00":"libs/imgs/meiz-02-l10.jpg"},
+			{"xImg00":"libs/imgs/meiz-02-l11.jpg"}					
+			]
+	},
+	{"id":"meiz03",
+	"imgUrl":"libs/imgs/meiz-03.jpg",	
+	"price":"199.98",
+	"nums":"771",
+	"sizes":[{"size":"诱惑玫瑰"},
+			{"size":"蜜桃海滩"},
+			{"size":"裸彩色"},			
+			{"size":"珊瑚红"}			
+			],
+	"lImg":{"lImg01":"libs/imgs/meiz-03-l01.jpg",
+			"lImg02":"libs/imgs/meiz-03-l02.jpg",
+			"lImg03":"libs/imgs/meiz-03-l03.jpg",
+			"lImg04":"libs/imgs/meiz-03-l04.jpg"
+			},
+	"describe1":"YSL圣罗兰 镜光唇釉 镜面 唇釉 唇彩 唇膏105 202 37 12 15 204 9   ",
+	"describe2":"Ysl的唇釉比较水润，就是质地稀薄，一次肯定涂不匀，来回来去刷也没用，只会把色彩堆积到唇边，唇中会越抹越淡。解决的方法就是，不管涂成什么样，一笔下去，不要修改，等晾干了再上，直到涂满涂匀.",
+	"xImg":[
+			{"xImg00":"libs/imgs/meiz-03-l01.jpg"},
+			{"xImg00":"libs/imgs/meiz-03-l02.jpg"},
+			{"xImg00":"libs/imgs/meiz-03-l03.jpg"},
+			{"xImg00":"libs/imgs/meiz-03-l04.jpg"}					
+			]
+	},
+	{"id":"meiz04",
+	"imgUrl":"libs/imgs/meiz-04.jpg",	
+	"price":"85",
+	"nums":"838",
+	"sizes":[{"size":"50ml"}			
+			],
+	"lImg":{"lImg01":"libs/imgs/meiz-04-l01.jpg",
+			"lImg02":"libs/imgs/meiz-04-l02.jpg",
+			"lImg03":"libs/imgs/meiz-04-l03.jpg",
+			"lImg04":"libs/imgs/meiz-04-l04.jpg"
+			},
+	"describe1":" 授权正品 韩国VDL贝壳提亮液 保湿提亮隔离 妆前乳霜细致隐形毛孔 ",
+	"describe2":"真心好用的一款产品! 涂抹在脸上，满满的水份感，差不多过了半分钟和肌肤融为一体，就能看到好像贝壳般的光泽度从肌肤里面透出来的感觉。而且不油腻，不用担心用妆前乳又用BB粉底的厚重感，VDL!让你的肌肤更显得柔美质感。",
+	"xImg":[
+			{"xImg00":"libs/imgs/meiz-04-l01.jpg"},
+			{"xImg00":"libs/imgs/meiz-04-l02.jpg"},
+			{"xImg00":"libs/imgs/meiz-04-l03.jpg"},
+			{"xImg00":"libs/imgs/meiz-04-l04.jpg"}				
+			]
+	},
+	{"id":"meiz05",
+	"imgUrl":"libs/imgs/meiz-05.jpg",	
+	"price":"19.9",
+	"nums":"25",
+	"sizes":[{"size":"50ml"}			
+			],
+	"lImg":{"lImg01":"libs/imgs/meiz-05-l01.jpg",
+			"lImg02":"libs/imgs/meiz-05-l02.jpg",
+			"lImg03":"libs/imgs/meiz-05-l03.jpg",
+			"lImg04":"libs/imgs/meiz-05-l04.jpg"
+			},
+	"describe1":"师夷家男士洗面奶控油去油去黑头收缩毛孔不紧绷青少年学生洁面乳 ",
+	"describe2":"",
+	"xImg":[
+			{"xImg00":"libs/imgs/meiz-05-l01.jpg"},
+			{"xImg00":"libs/imgs/meiz-05-l02.jpg"},
+			{"xImg00":"libs/imgs/meiz-05-l03.jpg"},
+			{"xImg00":"libs/imgs/meiz-05-l04.jpg"}				
+			]
+	},
+	{"id":"meiz06",
+	"imgUrl":"libs/imgs/meiz-06.jpg",	
+	"price":"159",
+	"nums":"95",
+	"sizes":[{"size":"80g"}			
+			],
+	"lImg":{"lImg01":"libs/imgs/meiz-06-l01.jpg",
+			"lImg02":"libs/imgs/meiz-06-l02.jpg",
+			"lImg03":"libs/imgs/meiz-06-l03.jpg",
+			"lImg04":"libs/imgs/meiz-06-l04.jpg"
+			},
+	"describe1":"gf高夫男士护肤品套装 恒润控油洁面乳保湿补水活肤露专柜洗面奶    ",
+	"describe2":"控油保湿 深层清除污垢 温和泡沫 不刺激  ",
+	"xImg":[
+			{"xImg00":"libs/imgs/meiz-06-l01.jpg"},
+			{"xImg00":"libs/imgs/meiz-06-l02.jpg"},
+			{"xImg00":"libs/imgs/meiz-06-l03.jpg"},
+			{"xImg00":"libs/imgs/meiz-06-l04.jpg"}				
+			]
+	},
+	{"id":"meiz07",
+	"imgUrl":"libs/imgs/meiz-07.jpg",	
+	"price":"39.9",
+	"nums":"97",
+	"sizes":[{"size":"10片"}			
+			],
+	"lImg":{"lImg01":"libs/imgs/meiz-07-l01.jpg",
+			"lImg02":"libs/imgs/meiz-07-l02.jpg",
+			"lImg03":"libs/imgs/meiz-07-l03.jpg",
+			"lImg04":"libs/imgs/meiz-07-l04.jpg"
+			},
+	"describe1":"御泥坊男士补水活力矿物蚕丝面膜贴 亮肤控油保湿收缩毛孔护肤品  ",
+	"describe2":" ",
+	"xImg":[
+			{"xImg00":"libs/imgs/meiz-07-l01.jpg"},
+			{"xImg00":"libs/imgs/meiz-07-l02.jpg"},
+			{"xImg00":"libs/imgs/meiz-07-l03.jpg"},
+			{"xImg00":"libs/imgs/meiz-07-l04.jpg"}				
+			]
+	},
+	{"id":"meiz08",
+	"imgUrl":"libs/imgs/meiz-08.jpg",	
+	"price":"150",
+	"nums":"142",
+	"sizes":[{"size":"200ml"}			
+			],
+	"lImg":{"lImg01":"libs/imgs/meiz-08-l01.jpg",
+			"lImg02":"libs/imgs/meiz-08-l02.jpg",
+			"lImg03":"libs/imgs/meiz-08-l01.jpg",
+			"lImg04":"libs/imgs/meiz-08-l02.jpg"
+			},
+	"describe1":"专柜260！现货18年！碧欧泉男士水动力爽肤水200ML/1瓶 ",
+	"describe2":"",
+	"xImg":[
+			{"xImg00":"libs/imgs/meiz-08-l01.jpg"},
+			{"xImg00":"libs/imgs/meiz-08-l02.jpg"}			
+			]
+	},
+	
+	
+	{"id":"muy01",
+	"imgUrl":"libs/imgs/muy-01.jpg",	
+	"price":"79",
+	"nums":"529",
+	"sizes":[{"size":"S"},
+			{"size":"M"},
+			{"size":"L"},			
+			{"size":"XL"}			
+			],
+	"lImg":{"lImg01":"libs/imgs/muy-01-l01.jpg",
+			"lImg02":"libs/imgs/muy-01-l02.jpg",
+			"lImg03":"libs/imgs/muy-01-l03.jpg",
+			"lImg04":"libs/imgs/muy-01-l04.jpg"
+			},
+	"describe1":"未满sexy story 性感透明网纱睡衣情趣内衣蕾丝超短睡裙极度诱惑   ",
+	"describe2":"海量新品 潮流穿搭 玩趣互动  ",
+	"xImg":[
+			{"xImg00":"libs/imgs/muy-01-l05.jpg"},
+			{"xImg00":"libs/imgs/muy-01-l06.jpg"},
+			{"xImg00":"libs/imgs/muy-01-l07.jpg"},
+			{"xImg00":"libs/imgs/muy-01-l08.jpg"},
+			{"xImg00":"libs/imgs/muy-01-l09.jpg"},
+			{"xImg00":"libs/imgs/muy-01-l10.jpg"},
+			{"xImg00":"libs/imgs/muy-01-l11.jpg"},
+			{"xImg00":"libs/imgs/muy-01-l12.jpg"},
+			{"xImg00":"libs/imgs/muy-01-l13.jpg"},
+			{"xImg00":"libs/imgs/muy-01-l14.jpg"},
+			{"xImg00":"libs/imgs/muy-01-l15.jpg"},
+			{"xImg00":"libs/imgs/muy-01-l16.jpg"},
+			{"xImg00":"libs/imgs/muy-01-l17.jpg"},
+			{"xImg00":"libs/imgs/muy-01-l18.jpg"}						
+			]
+	},
+	{"id":"muy02",
+	"imgUrl":"libs/imgs/muy-02.jpg",	
+	"price":"69",
+	"nums":"109",
+	"sizes":[{"size":"75B"},
+		{"size":"80B"},
+		{"size":"85C"},			
+		{"size":"90D"}			
+	],
+	"lImg":{"lImg01":"libs/imgs/muy-02-l01.jpg",
+			"lImg02":"libs/imgs/muy-02-l02.jpg",
+			"lImg03":"libs/imgs/muy-02-l03.jpg",
+			"lImg04":"libs/imgs/muy-02-l04.jpg"
+			},
+	"describe1":"欧美薄罩杯蝴蝶梦法式性感镂空内衣蕾丝文胸内裤套装小胸插片冬季  ",
+	"describe2":"这款文胸套装的面料采用了精致的法式蕾丝，精雕细刻的花朵图案栩栩如生。柔软的蕾丝，贴肤穿着舒适、透气。罩杯垫里加了水饺垫，小胸妹子可以更好的塑造胸部线条。拿掉水饺垫，大胸的妹子也可以穿着。",
+	"xImg":[
+			{"xImg00":"libs/imgs/muy-02-l05.jpg"},
+			{"xImg00":"libs/imgs/muy-02-l06.jpg"},
+			{"xImg00":"libs/imgs/muy-02-l07.jpg"},
+			{"xImg00":"libs/imgs/muy-02-l08.jpg"},
+			{"xImg00":"libs/imgs/muy-02-l09.jpg"},
+			{"xImg00":"libs/imgs/muy-02-l10.jpg"},
+			{"xImg00":"libs/imgs/muy-02-l11.jpg"},
+			{"xImg00":"libs/imgs/muy-02-l12.jpg"},
+			{"xImg00":"libs/imgs/muy-02-l13.jpg"},
+			{"xImg00":"libs/imgs/muy-02-l14.jpg"},
+			{"xImg00":"libs/imgs/muy-02-l15.jpg"},
+			{"xImg00":"libs/imgs/muy-02-l16.jpg"},
+			{"xImg00":"libs/imgs/muy-02-l17.jpg"},
+			{"xImg00":"libs/imgs/muy-02-l18.jpg"}					
+			]
+	},
+	{"id":"muy03",
+	"imgUrl":"libs/imgs/muy-03.jpg",	
+	"price":"56",
+	"nums":"15",
+	"sizes":[{"size":"75B"},
+			{"size":"80B"},
+			{"size":"85C"},			
+			{"size":"90D"}			
+			],
+	"lImg":{"lImg01":"libs/imgs/muy-03-l01.jpg",
+			"lImg02":"libs/imgs/muy-03-l02.jpg",
+			"lImg03":"libs/imgs/muy-03-l03.jpg",
+			"lImg04":"libs/imgs/muy-03-l04.jpg"
+			},
+	"describe1":"日系性感无钢圈前扣式女士内衣聚拢深v光面镂空胸罩文胸可选套装 ",
+	"describe2":"纵横内衣市场多年，第一次看到这么好看的内衣 既能前扣，又能后扣，还能调节！ 大家都知道很多前扣的内衣都不能调节的~ 重点是，前面的交叉很性感~后面还是美背哒！ 夏天超级舒服的无痕，无钢圈啊~~ 小A试过，一点也不显小，炒鸡聚拢，OMG 内裤也好性感~~~",
+	"xImg":[
+			{"xImg00":"libs/imgs/muy-03-l01.jpg"},
+			{"xImg00":"libs/imgs/muy-03-l02.jpg"},
+			{"xImg00":"libs/imgs/muy-03-l03.jpg"},
+			{"xImg00":"libs/imgs/muy-03-l04.jpg"}						
+			]
+	},
+	{"id":"muy04",
+	"imgUrl":"libs/imgs/muy-04.jpg",	
+	"price":"149",
+	"nums":"5",
+	"sizes":[{"size":"75B"},
+			{"size":"80B"},
+			{"size":"85C"},			
+			{"size":"90D"}			
+			],
+	"lImg":{"lImg01":"libs/imgs/muy-04-l01.jpg",
+			"lImg02":"libs/imgs/muy-04-l02.jpg",
+			"lImg03":"libs/imgs/muy-04-l03.jpg",
+			"lImg04":"libs/imgs/muy-04-l04.jpg"
+			},
+	"describe1":" 好奇小姐的内衣店挂脖超薄蕾丝透明透视性感内衣美背胸罩文胸套装 ",
+	"describe2":"海量新品 潮流穿搭 玩趣互动",
+	"xImg":[
+			{"xImg00":"libs/imgs/muy-04-l01.jpg"},
+			{"xImg00":"libs/imgs/muy-04-l02.jpg"},
+			{"xImg00":"libs/imgs/muy-04-l03.jpg"},
+			{"xImg00":"libs/imgs/muy-04-l04.jpg"}					
+			]
+	},
+	{"id":"muy05",
+	"imgUrl":"libs/imgs/muy-05.jpg",	
+	"price":"59.9",
+	"nums":"1639",
+	"sizes":[{"size":"75B"},
+			{"size":"80B"},
+			{"size":"85C"},			
+			{"size":"90D"}			
+			],
+	"lImg":{"lImg01":"libs/imgs/muy-05-l01.jpg",
+			"lImg02":"libs/imgs/muy-05-l02.jpg",
+			"lImg03":"libs/imgs/muy-05-l03.jpg",
+			"lImg04":"libs/imgs/muy-05-l04.jpg"
+			},
+	"describe1":"内衣套装女性感聚拢加厚小胸半杯有钢圈夏季薄款蕾丝少女文胸套装 ",
+	"describe2":"性感蕾丝 小胸聚拢 半杯文胸套装",
+	"xImg":[
+			{"xImg00":"libs/imgs/muy-05-l01.jpg"},
+			{"xImg00":"libs/imgs/muy-05-l02.jpg"},
+			{"xImg00":"libs/imgs/muy-05-l03.jpg"},
+			{"xImg00":"libs/imgs/muy-05-l04.jpg"}				
+			]
+	},
+	{"id":"muy06",
+	"imgUrl":"libs/imgs/muy-06.jpg",	
+	"price":"19.9",
+	"nums":"26",
+	"sizes":[{"size":"75B"},
+			{"size":"80B"},
+			{"size":"85C"},			
+			{"size":"90D"}			
+			],
+	"lImg":{"lImg01":"libs/imgs/muy-06-l01.jpg",
+			"lImg02":"libs/imgs/muy-06-l02.jpg",
+			"lImg03":"libs/imgs/muy-06-l03.jpg",
+			"lImg04":"libs/imgs/muy-06-l04.jpg"
+			},
+	"describe1":"一片式无痕无钢圈露背交叉美背内衣聚拢小胸加厚性感文胸内裤套装    ",
+	"describe2":" ",
+	"xImg":[
+			{"xImg00":"libs/imgs/muy-06-l01.jpg"},
+			{"xImg00":"libs/imgs/muy-06-l02.jpg"},
+			{"xImg00":"libs/imgs/muy-06-l03.jpg"},
+			{"xImg00":"libs/imgs/muy-06-l04.jpg"}					
+			]
+	},
+	{"id":"muy07",
+	"imgUrl":"libs/imgs/muy-07.jpg",	
+	"price":"89",
+	"nums":"1331",
+	"sizes":[{"size":"75B"},
+			{"size":"80B"},
+			{"size":"85C"},			
+			{"size":"90D"}			
+			],
+	"lImg":{"lImg01":"libs/imgs/muy-07-l01.jpg",
+			"lImg02":"libs/imgs/muy-07-l02.jpg",
+			"lImg03":"libs/imgs/muy-07-l03.jpg",
+			"lImg04":"libs/imgs/muy-07-l04.jpg"
+			},
+	"describe1":"蜜格儿内衣女套装小胸少女聚拢胸罩 性感美背无痕无钢圈运动文胸  ",
+	"describe2":" ",
+	"xImg":[
+			{"xImg00":"libs/imgs/muy-07-l01.jpg"},
+			{"xImg00":"libs/imgs/muy-07-l02.jpg"},
+			{"xImg00":"libs/imgs/muy-07-l03.jpg"},
+			{"xImg00":"libs/imgs/muy-07-l04.jpg"}				
+			]
+	},
+	{"id":"muy08",
+	"imgUrl":"libs/imgs/muy-08.jpg",	
+	"price":"69",
+	"nums":"3450",
+	"sizes":[{"size":"75B"},
+			{"size":"80B"},
+			{"size":"85C"},			
+			{"size":"90D"}			
+			],
+	"lImg":{"lImg01":"libs/imgs/muy-08-l01.jpg",
+			"lImg02":"libs/imgs/muy-08-l02.jpg",
+			"lImg03":"libs/imgs/muy-08-l03.jpg",
+			"lImg04":"libs/imgs/muy-08-l04.jpg"
+			},
+	"describe1":"蜜格儿无钢圈文胸性感薄款胸罩聚拢小胸加厚学生高中少女无痕内衣 ",
+	"describe2":"",
+	"xImg":[
+			{"xImg00":"libs/imgs/muy-08-l01.jpg"},
+			{"xImg00":"libs/imgs/muy-08-l02.jpg"},
+			{"xImg00":"libs/imgs/muy-08-l03.jpg"},
+			{"xImg00":"libs/imgs/muy-08-l04.jpg"}					
+			]
+	},
+	
+	
+	{"id":"meis01",
+	"imgUrl":"libs/imgs/meis-01.jpg",	
+	"price":"95",
+	"nums":"322",
+	"sizes":[{"size":"原味"},
+			{"size":"香辣"},
+			{"size":"孜然"}		
+			],
+	"lImg":{"lImg01":"libs/imgs/meis-01-l01.jpg",
+			"lImg02":"libs/imgs/meis-01-l02.jpg",
+			"lImg03":"libs/imgs/meis-01-l03.jpg",
+			"lImg04":"libs/imgs/meis-01-l04.jpg"
+			},
+	"describe1":"内蒙古风干牛肉干 傻子王香辣原味零食 正宗手撕风干肉250g*2袋  ",
+	"describe2":"【限时抢购：买就送50g现烤牛肉干】【工厂自产自销！好牛肉才能出好肉干，真材实料】【不添加防腐剂，孕妇小孩放心吃！7成干刚刚好，适合大众口味！】 ",
+	"xImg":[
+			{"xImg00":"libs/imgs/meis-01-l01.jpg"},
+			{"xImg00":"libs/imgs/meis-01-l02.jpg"},
+			{"xImg00":"libs/imgs/meis-01-l03.jpg"},
+			{"xImg00":"libs/imgs/meis-01-l04.jpg"}					
+			]
+	},
+	{"id":"meis02",
+	"imgUrl":"libs/imgs/meis-02.jpg",	
+	"price":"24.9",
+	"nums":"196",
+	"sizes":[{"size":"0.5kg"},
+			{"size":"1kg"},
+			{"size":"1.5kg"},			
+			{"size":"2kg"}			
+			],
+	"lImg":{"lImg01":"libs/imgs/meis-02-l01.jpg",
+			"lImg02":"libs/imgs/meis-02-l02.jpg",
+			"lImg03":"libs/imgs/meis-02-l03.jpg",
+			"lImg04":"libs/imgs/meis-02-l04.jpg"
+			},
+	"describe1":"2份送一斤 四川土红糖 甘蔗手工原糖 月子红糖 非云南红糖2斤",
+	"describe2":"25元，２斤全国包邮，此红糖非彼红糖，非云南红糖。值得一试。",
+	"xImg":[
+			{"xImg00":"libs/imgs/meis-02-l01.jpg"},
+			{"xImg00":"libs/imgs/meis-02-l02.jpg"},
+			{"xImg00":"libs/imgs/meis-02-l03.jpg"},
+			{"xImg00":"libs/imgs/meis-02-l04.jpg"}					
+			]
+	},
+	{"id":"meis03",
+	"imgUrl":"libs/imgs/meis-03.jpg",	
+	"price":"88",
+	"nums":"170",
+	"sizes":[{"size":"5斤"}		
+			],
+	"lImg":{"lImg01":"libs/imgs/meis-03-l01.jpg",
+			"lImg02":"libs/imgs/meis-03-l02.jpg",
+			"lImg03":"libs/imgs/meis-03-l03.jpg",
+			"lImg04":"libs/imgs/meis-03-l04.jpg"
+			},
+	"describe1":"四川正宗丑橘 丑柑 不知火 丑八怪桔子 橙 水果5斤包邮 ",
+	"describe2":"不知火 好吃 不上火 5斤包邮！！！",
+	"xImg":[
+			{"xImg00":"libs/imgs/meis-03-l01.jpg"},
+			{"xImg00":"libs/imgs/meis-03-l02.jpg"},
+			{"xImg00":"libs/imgs/meis-03-l03.jpg"},
+			{"xImg00":"libs/imgs/meis-03-l04.jpg"}						
+			]
+	},
+	{"id":"meis04",
+	"imgUrl":"libs/imgs/meis-04.jpg",	
+	"price":"9.9",
+	"nums":"1503",
+	"sizes":[{"size":"250ml"}					
+			],
+	"lImg":{"lImg01":"libs/imgs/meis-04-l01.jpg",
+			"lImg02":"libs/imgs/meis-04-l02.jpg",
+			"lImg03":"libs/imgs/meis-04-l03.jpg",
+			"lImg04":"libs/imgs/meis-04-l04.jpg"
+			},
+	"describe1":" 雀巢淡奶油250ml 动物性做蛋糕皮蛋挞液谈材料烘培鲜奶油烘焙原料  ",
+	"describe2":"淡奶油也叫稀奶油。一般都指可以打发裱花用的动物奶油。打发称固体状后就是蛋糕上面装饰的奶油了。因为没有加糖，所以称之为淡奶油，打发的时候要加糖。常被用作于打发后制作奶油蛋糕、蛋挞液、提拉米苏等。",
+	"xImg":[
+			{"xImg00":"libs/imgs/meis-04-l01.jpg"},
+			{"xImg00":"libs/imgs/meis-04-l02.jpg"},
+			{"xImg00":"libs/imgs/meis-04-l03.jpg"},
+			{"xImg00":"libs/imgs/meis-04-l04.jpg"}					
+			]
+	},
+	{"id":"meis05",
+	"imgUrl":"libs/imgs/meis-05.jpg",	
+	"price":"88",
+	"nums":"450",
+	"sizes":[{"size":"48颗"}		
+			],
+	"lImg":{"lImg01":"libs/imgs/meis-05-l01.jpg",
+			"lImg02":"libs/imgs/meis-05-l02.jpg",
+			"lImg03":"libs/imgs/meis-05-l03.jpg",
+			"lImg04":"libs/imgs/meis-05-l04.jpg"
+			},
+	"describe1":"包邮意大利进口费列罗榛果巧克力礼盒装48颗 节日礼盒婚庆喜糖",
+	"describe2":"嗯，金色时刻，永远缺席不了的金色经典！费列罗巧克力开创多层式口感：外层铺满巧克力碎和果仁，里层有威化、软巧克力和一粒完整的榛子，带来多重味觉的享受：夹着果仁的巧克力外衣脆脆的，里面的巧克力心柔软浓滑，甜而不腻入口即化。3颗一条，方便携带！出游旅行结婚宴客，就它！别无选择！",
+	"xImg":[
+			{"xImg00":"libs/imgs/meis-05-l01.jpg"},
+			{"xImg00":"libs/imgs/meis-05-l02.jpg"},
+			{"xImg00":"libs/imgs/meis-05-l03.jpg"},
+			{"xImg00":"libs/imgs/meis-05-l04.jpg"}				
+			]
+	},
+	{"id":"meis06",
+	"imgUrl":"libs/imgs/meis-06.jpg",	
+	"price":"58",
+	"nums":"239",
+	"sizes":[{"size":"357g"}		
+			],
+	"lImg":{"lImg01":"libs/imgs/meis-06-l01.jpg",
+			"lImg02":"libs/imgs/meis-06-l02.jpg",
+			"lImg03":"libs/imgs/meis-06-l03.jpg",
+			"lImg04":"libs/imgs/meis-06-l04.jpg"
+			},
+	"describe1":"古今茶馆 百年布朗7年陈 普洱茶熟茶 饼茶 勐海普洱 布朗山  ",
+	"describe2":"店庆专享价58元/饼，买4送1， 买7送2（送同款） ",
+	"xImg":[
+			{"xImg00":"libs/imgs/meis-06-l01.jpg"},
+			{"xImg00":"libs/imgs/meis-06-l02.jpg"},
+			{"xImg00":"libs/imgs/meis-06-l03.jpg"},
+			{"xImg00":"libs/imgs/meis-06-l04.jpg"}					
+			]
+	},
+	{"id":"meis07",
+	"imgUrl":"libs/imgs/meis-07.jpg",	
+	"price":"29.8",
+	"nums":"1939",
+	"sizes":[{"size":"500g"}		
+			],
+	"lImg":{"lImg01":"libs/imgs/meis-07-l01.jpg",
+			"lImg02":"libs/imgs/meis-07-l02.jpg",
+			"lImg03":"libs/imgs/meis-07-l03.jpg",
+			"lImg04":"libs/imgs/meis-07-l04.jpg"
+			},
+	"describe1":"俄罗斯糖 进口糖果 酸奶威化糖 巧克力牛奶糖 500g",
+	"describe2":" ",
+	"xImg":[
+			{"xImg00":"libs/imgs/meis-07-l01.jpg"},
+			{"xImg00":"libs/imgs/meis-07-l02.jpg"},
+			{"xImg00":"libs/imgs/meis-07-l03.jpg"},
+			{"xImg00":"libs/imgs/meis-07-l04.jpg"}				
+			]
+	},
+	{"id":"meis08",
+	"imgUrl":"libs/imgs/meis-08.jpg",	
+	"price":"57",
+	"nums":"366",
+	"sizes":[{"size":"227g"}		
+			],
+	"lImg":{"lImg01":"libs/imgs/meis-08-l01.jpg",
+			"lImg02":"libs/imgs/meis-08-l02.jpg",
+			"lImg03":"libs/imgs/meis-08-l03.jpg",
+			"lImg04":"libs/imgs/meis-08-l04.jpg"
+			},
+	"describe1":"晨宇新鲜烘焙曼特宁咖啡豆进口黄金摩卡精品咖啡豆可现磨黑咖啡粉  ",
+	"describe2":"特级苏门答腊省亚齐特区曼特宁G1，硕大尺寸！极高性价比！默认发货当天上午烘焙，烘焙后封装，下午发货，需要磨粉请告诉客服",
+	"xImg":[
+			{"xImg00":"libs/imgs/meis-08-l01.jpg"},
+			{"xImg00":"libs/imgs/meis-08-l02.jpg"},
+			{"xImg00":"libs/imgs/meis-08-l03.jpg"},
+			{"xImg00":"libs/imgs/meis-08-l04.jpg"}					
+			]
 	}
-
+	
 	
 	
 ]}

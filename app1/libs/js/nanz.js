@@ -1,14 +1,14 @@
 $(function(){
-	$('.nav-l:first').css('color','red')
+	$('.nav-l:first').css('color','#33CD5F')
 	$('.nav-l').on('click',function(){
 		$('.nav-l').css('color','black')
-		$(this).css('color','red')
+		$(this).css('color','#33CD5F')
 	})
 	
 
 	var moren = function(){
 		$('.tool div').css('color','black')
-		$('.tool div:nth-child(3)').css('color','red')
+		$('.tool div:nth-child(3)').css('color','#33CD5F')
 		$('.sp').html('')
 		$.ajax('libs/json/nanz.json').success(function(item){						
 			var arr =item.data;
@@ -27,7 +27,7 @@ $(function(){
 	////销量降序排列
 	$('.tool div:first').on('touchstart',function(){
 		$('.tool div').css('color','black')
-		$('.tool div:nth-child(1)').css('color','red')
+		$('.tool div:nth-child(1)').css('color','#33CD5F')
 		$.ajax('libs/json/nanz.json').success(function(item){						
 			var arr = []
 			//销量降序排列
@@ -71,7 +71,7 @@ $(function(){
 	////价格升序排列
 	$('.tool div:nth-child(2)').on('touchstart',function(){
 		$('.tool div').css('color','black')
-		$('.tool div:nth-child(2)').css('color','red')
+		$('.tool div:nth-child(2)').css('color','#33CD5F')
 		$('.sp').html('')
 		$.ajax('libs/json/nanz.json').success(function(item){						
 			var arr = []

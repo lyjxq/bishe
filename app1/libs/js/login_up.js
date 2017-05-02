@@ -4,10 +4,12 @@ window.onload = function(){
 	var flagn;
 	var flagp1;
 	var flagp2;
+	var flaghy;
+	var str = [];
+	//localStorage.removeItem('hy-info')
 	//匹配帐号是否合法(字母开头，允许5-16字节，允许字母数字下划线)：^[a-zA-Z][a-zA-Z0-9_]{4,15}$ 
 	$('input[id=name]').on('blur',function(){
-		var name = $(this).val()
-		console.log(name)
+		var name = $(this).val()		
 		var rep = /^\w{6,}$/;
 		if(rep.test(name)){
 			$('.ts').text("用户名称符合条件") ;	
@@ -25,6 +27,7 @@ window.onload = function(){
 					var rep = /^.{6,20}$/;
 					if(rep.test(pass)){
 						$('.ts').text("密码符合条件") ;
+						$('input[id=pas2]').val('')
 						flagp1 =true;
 					}else{
 						$('.ts').text("密码长度在6-20位之间") ;
@@ -52,4 +55,58 @@ window.onload = function(){
 						$('.ts').text("密码长度在6-20位之间") ;
 					}
 				})
+	//点击注册			
+	$('.button').on('click',function(){
+		if(flagn&&flagp1&&flagp2){
+		
+			
+			obj_name = $('input[id=name]').val();
+			obj_pass = $('input[id=pas1]').val();
+			 
+			var huiyuan = localStorage.getItem('hy-info');				
+			
+			//如果是首次注册
+			if(huiyuan==null || huiyuan== '[]'){
+				var obj = {}
+				obj.name = obj_name;
+				obj.pas = obj_pass;
+				str.push(obj)
+				var strs = JSON.stringify(str)
+				localStorage.setItem('hy-info',strs)
+								
+			}else{//如果已注册过会员  
+				str = JSON.parse(huiyuan);
+				//遍历是否有相同的会员名
+				for(var i=0;i<str.length;i++){
+				
+					if(obj_name==str[i].name){
+						flaghy = true;
+						break;
+					}else{
+						flaghy = false;
+					}
+				}
+				if(flaghy){//如果用户存在
+					$('.ts').text("注册失败！用户名已存在，请更换用户名。") ;
+				}else{//如果用户不存在
+					var obj = {}
+					obj.name = obj_name;
+					obj.pas = obj_pass;
+					str.push(obj)
+					var strs = JSON.stringify(str)					
+					localStorage.setItem('hy-info',strs)
+					$('.ts').text("恭喜您！注册成功啦！") ;
+					$('input').val("")
+//					var huiyuan = localStorage.getItem('hy-info');				
+//					var hy = JSON.parse(huiyuan);
+//					console.log(hy)
+					location.href = 'login_in.html'
+				}
+				
+			}
+			
+			
+		}
+		
+	})
 }

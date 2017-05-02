@@ -2,7 +2,7 @@
 	{"id":"nv01",
 	"imgUrl":"libs/imgs/nvz-01.jpg",	
 	"price":"69.9",
-	"nums":"1539",
+	"nums":"1539",	
 	"lImg":{"lImg01":"libs/imgs/nvz-01-l01.jpg",
 			"lImg02":"libs/imgs/nvz-01-l02.jpg",
 			"lImg03":"libs/imgs/nvz-01-l03.jpg",
@@ -160,24 +160,22 @@
 			]
 	},
 	{"id":"n08",
-	"imgUrl":"libs/imgs/nanz-08.jpg",	
-	"price":"139",
-	"nums":"336",
-	"lImg":{"lImg01":"libs/imgs/nanz-08-l01.jpg",
-			"lImg02":"libs/imgs/nanz-08-l02.jpg",
-			"lImg03":"libs/imgs/nanz-08-l03.jpg",
-			"lImg04":"libs/imgs/nanz-08-l04.jpg"
+	"imgUrl":"libs/imgs/nvz-08.jpg",	
+	"price":"229",
+	"nums":"286",
+	"lImg":{"lImg01":"libs/imgs/nvz-08-l01.jpg",
+			"lImg02":"libs/imgs/nvz-08-l02.jpg",
+			"lImg03":"libs/imgs/nvz-08-l03.jpg",
+			"lImg04":"libs/imgs/nvz-08-l04.jpg"
 			},
-	"describe1":"春季新款运动男式短袖连帽宽松假两件套头青少年拼色撞色卫衣男装 ",
-	"describe2":"在设计这个款式的时候 我有很多的想法 都完美的诠释在这一件中袖连帽卫衣 ①独特的版型裁剪 宽松又不失版型效果 ②独创的短袖设计 可搭配长袖露出在外 ③卫衣的下部缝合的时尚的假两件，以及不规则的衣尾 ④尼龙的缩帽绳，简约的帽扣环。 这件简直是卫衣中的百搭款 赶快入手吧！",
+	"describe1":"小镇姗姗 风之霓裳 宫廷风优雅女神精致刺绣蕾丝礼服裙长裙",
+	"describe2":" 海量新品 潮流穿搭 玩趣互动 ",
 	"xImg":[
-			{"xImg00":"libs/imgs/nanz-08-l05.jpg"},
-			{"xImg00":"libs/imgs/nanz-08-l06.jpg"},
-			{"xImg00":"libs/imgs/nanz-08-l07.jpg"},
-			{"xImg00":"libs/imgs/nanz-08-l08.jpg"},
-			{"xImg00":"libs/imgs/nanz-08-l09.jpg"},
-			{"xImg00":"libs/imgs/nanz-08-l10.jpg"},
-			{"xImg00":"libs/imgs/nanz-08-l11.jpg"}					
+			{"xImg00":"libs/imgs/nvz-08-l05.jpg"},
+			{"xImg00":"libs/imgs/nvz-08-l06.jpg"},
+			{"xImg00":"libs/imgs/nvz-08-l07.jpg"},
+			{"xImg00":"libs/imgs/nvz-08-l08.jpg"},
+			{"xImg00":"libs/imgs/nvz-08-l09.jpg"}					
 			]
 	}
 ]}

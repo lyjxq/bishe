@@ -1,8 +1,21 @@
 var app = angular.module('myApp-detail',['ionic'])
 app.controller('myCtrl-detail',['$scope','$http', '$ionicPopup', '$timeout',function($scope,$http, $ionicPopup, $timeout){
 	$scope.title = 'bishe';
+	$scope.goback = function(){		
+		window.history.go(-1)
+	}
 //	加入购物车
 	$scope.showAlert = function() {	
+		var huiyuan = localStorage.getItem('obj_info');
+		var hy = JSON.parse(huiyuan);
+		//console.log(hy)
+		if(!hy){
+		//console.log('gg')
+		location.href = 'login_in.html'
+			
+		}else{
+		
+		
 		//判断是否选择了尺码
 		if(size==undefined){
 			var alertPopup = $ionicPopup.alert({
@@ -81,14 +94,14 @@ app.controller('myCtrl-detail',['$scope','$http', '$ionicPopup', '$timeout',func
 						var des = $('.describe1').text();
 						var pri= $('.price').text().replace(/[&\|\\\*^%$￥#@\-]/g,"") ;
 						var num2= $('.nums').text();
-						console.log(num2)
+						//console.log(num2)
 						
 						var obj = {};
 						obj.id = ID;
 						obj.imgsrc = imgsrc;
 						obj.des = des;
 						obj.pri = pri;
-						console.log(Number(num_befor))
+						//console.log(Number(num_befor))
 						
 						obj.num1 =Number(Number(num2)+Number(num_befor));
 						obj.size = size.trim();
@@ -101,7 +114,7 @@ app.controller('myCtrl-detail',['$scope','$http', '$ionicPopup', '$timeout',func
 					
 				}
 			var goods = localStorage.getItem('str_good');
-			console.log(goods)	
+			//console.log(goods)	
 			var strgood = JSON.parse(goods);
 			goodsnum = 0
 			for(var j=0;j<strgood.length;j++){
@@ -114,9 +127,11 @@ app.controller('myCtrl-detail',['$scope','$http', '$ionicPopup', '$timeout',func
 	      
 		}
 		
-		
+	}	
         
     };
+
+
 	$scope.getUrl = function(){
 		var _url = window.location.search; //获取url中"?"符后的字串
 		var obj = { };
@@ -131,7 +146,7 @@ app.controller('myCtrl-detail',['$scope','$http', '$ionicPopup', '$timeout',func
 		return obj	
 	}
 	ID = $scope.getUrl().id;
-	console.log(ID)
+	//console.log(ID)
 	$http.get('libs/json/ash.json').success(function(newitem){		
 		for(var i=0;i<newitem.data.length;i++){			
 			if(ID==newitem.data[i].id){
@@ -176,7 +191,7 @@ window.onload = function(){
 		$(this).css({"border":"1px solid #31C37C","color":"#31C37C"})
 		$(this).addClass('.active')
 		size = $(this).text().trim()
-		console.log(size ) 
+		//console.log(size ) 
 	})
 
 	//数量增加
@@ -204,9 +219,9 @@ window.onload = function(){
 	})
 
 			var goods = localStorage.getItem('str_good');
-			console.log(goods)
+			//console.log(goods)
 			if(goods!=null){
-				console.log(goods)	
+				//console.log(goods)	
 				var strgood = JSON.parse(goods);
 				var goodsnum = 0;
 				for(var j=0;j<strgood.length;j++){

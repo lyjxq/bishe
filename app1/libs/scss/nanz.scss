@@ -23,7 +23,9 @@
 //  .tool-title:hover{     
 //      color: red; 
 //  }
-  
+    div:nth-child(1){
+        border-left: 1px solid #9B9B93;        
+    }
     div:nth-child(2){
         border-left: 1px solid #9B9B93;
         border-right: 1px solid #9B9B93;

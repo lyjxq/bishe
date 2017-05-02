@@ -26,7 +26,15 @@ $(function(){
 			scrollerWidth:6,
 			fingerClick:1,
 			endClickScroll:function(obj){
-				console.log(obj.text())
+				//console.log(obj.text())
 			}
 		});
+		$('.pm a ').css('color','#908B8B')
+		$('.pm a:first').css('color','#33CD5F')
+		$('.pm a').on('click',function(){
+			$('.pm a').css('color','#908B8B')
+			$(this).css('color','#33CD5F')
+		})
+		$('.bg-hf dl').css('color','#908B8B')
+		
 })

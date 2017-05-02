@@ -1,6 +1,28 @@
-*, pm {
+*, .pm {
   padding: 0;
   margin: 0; }
+
+.col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12 {
+  padding: 0;
+  margin: 0; }
+
+.center-v {
+  justify-content: center;
+  align-items: center;
+  display: -webkit-flex; }
+  .center-v input {
+    widows: 100%;
+    height: 18px;
+    width: 80%;
+    border-radius: 999px;
+    padding: 11px;
+    background: #eae5d6; }
+  .center-v dl, .center-v dt, .center-v dd {
+    padding: 0;
+    margin: 0;
+    line-height: 12px;
+    font-size: 10px;
+    text-align: center; }
 
 .foot {
   padding-top: 5px;
@@ -31,7 +53,7 @@
 
 .right-c {
   width: 80%;
-  background: #C4C9CE;
+  background: white;
   position: relative;
   float: left;
   overflow: auto;

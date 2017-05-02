@@ -1,7 +1,17 @@
+//localStorage.removeItem('obj_info')
+var huiyuan = localStorage.getItem('obj_info');
+var hy = JSON.parse(huiyuan);
+console.log(hy)
+if(!hy){
+	//console.log('gg')
+location.href = 'login_in.html'
+	
+}else{
+//console.log(hy)
 var app = angular.module('myApp-cart',['ionic'])
 app.controller('myCtrl-cart',['$scope','$http', '$ionicPopup', '$timeout',function($scope,$http, $ionicPopup, $timeout){
-	$scope.title = 'cart-header';
-	$scope.title1 = 'cart-footer';
+	$scope.title = hy.name;
+	
 	   $scope.showConfirm = function() {
             var confirmPopup = $ionicPopup.confirm({
                title: '温馨提示',
@@ -34,7 +44,7 @@ app.controller('myCtrl-cart',['$scope','$http', '$ionicPopup', '$timeout',functi
 				
 			
 	$scope.jq = function(){
-		console.log('jq')
+		//console.log('jq')
 		var goods = localStorage.getItem('str_good');				
 		var strgood = JSON.parse(goods);					
 		$scope.repeatGoods = strgood ;
@@ -124,7 +134,7 @@ window.onload = function(){
 	    	var hh = 0
 	    	//$('span[class=pay]').text(total);
 	    	$('.bar-footer .button').text(total)
-	    	console.log(total)
+	    	//console.log(total)
 	    	//console.log($(".check input[type=checkbox]").length)
 	    	$(".good-box input[type=checkbox]").each(function(){  
 		    	if($(this).prop("checked")){
@@ -161,4 +171,11 @@ window.onload = function(){
 	            });  
 	        }  
     	});	
+   	$('.gob').on('click',function(){  		
+   		window.history.go(-1)
+   	})
+}
+
+
+
 }

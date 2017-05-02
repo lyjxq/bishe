@@ -1,0 +1,193 @@
+{"data":[
+	{"id":"sm01",
+	"imgUrl":"libs/imgs/sm-01.jpg",	
+	"price":"21.9",
+	"nums":"4379",
+	"sizes":[{"size":"银色 65cm"},
+			{"size":"银色 110cm"},
+			{"size":"银色 130cm"},			
+			{"size":"黑色 110cm"},
+			{"size":"黑色 130cm"}			
+			],	
+	"lImg":{"lImg01":"libs/imgs/sm-01-l01.jpg",
+			"lImg02":"libs/imgs/sm-01-l02.jpg",
+			"lImg03":"libs/imgs/sm-01-l03.jpg",
+			"lImg04":"libs/imgs/sm-01-l04.jpg"
+			},
+	"describe1":"手机直播支架三脚架主播桌面便携拍照ipad平板三角架床头苹果映客  ",
+	"describe2":"",
+	"xImg":[
+			{"xImg00":"libs/imgs/sm-01-l05.jpg"},
+			{"xImg00":"libs/imgs/sm-01-l06.jpg"},
+			{"xImg00":"libs/imgs/sm-01-l07.jpg"},
+			{"xImg00":"libs/imgs/sm-01-l08.jpg"},
+			{"xImg00":"libs/imgs/sm-01-l09.jpg"},
+			{"xImg00":"libs/imgs/sm-01-l10.jpg"},
+			{"xImg00":"libs/imgs/sm-01-l11.jpg"},
+			{"xImg00":"libs/imgs/sm-01-l12.jpg"},
+			{"xImg00":"libs/imgs/sm-01-l13.jpg"},
+			{"xImg00":"libs/imgs/sm-01-l14.jpg"}						
+			]
+	},
+	{"id":"sm02",
+	"imgUrl":"libs/imgs/sm-02.jpg",	
+	"price":"69.8",
+	"nums":"531",
+	"sizes":[{"size":"白玉兰"},
+			{"size":"简约"},
+			{"size":"野马"},			
+			{"size":"红色马里奥"},
+			{"size":"熔岩"}			
+			],
+	"lImg":{"lImg01":"libs/imgs/sm-02-l01.jpg",
+			"lImg02":"libs/imgs/sm-02-l02.jpg",
+			"lImg03":"libs/imgs/sm-02-l03.jpg",
+			"lImg04":"libs/imgs/sm-02-l04.jpg"
+			},
+	"describe1":"MeSkins iphone7手机壳7plus保护套防摔苹果7手机壳plus磨砂7p潮  ",
+	"describe2":"iPhone7/7plus已正式发布，MeSkins紧跟步伐也已准备好手机壳，给果粉们发福利喽~，现在购买疯7手机壳买二送一！，早早把壳子准备好，疯7到手第一时间就可以用啦~色彩全包不掉色，超硬耐摔，不发黄，无异味，追求品质的亲可别错过哦~！",
+	"xImg":[
+			{"xImg00":"libs/imgs/sm-02-l05.jpg"},
+			{"xImg00":"libs/imgs/sm-02-l06.jpg"},
+			{"xImg00":"libs/imgs/sm-02-l07.jpg"},
+			{"xImg00":"libs/imgs/sm-02-l08.jpg"},
+			{"xImg00":"libs/imgs/sm-02-l09.jpg"},
+			{"xImg00":"libs/imgs/sm-02-l10.jpg"}					
+			]
+	},
+	{"id":"sm03",
+	"imgUrl":"libs/imgs/sm-03.jpg",	
+	"price":"2998",
+	"nums":"205",
+	"sizes":[{"size":"国行黑色"},
+			{"size":"国行白色"},
+			{"size":"银色"},			
+			{"size":"新石墨灰"}		
+			],
+	"lImg":{"lImg01":"libs/imgs/sm-03-l01.jpg",
+			"lImg02":"libs/imgs/sm-03-l02.jpg",
+			"lImg03":"libs/imgs/sm-03-l03.jpg",
+			"lImg04":"libs/imgs/sm-03-l04.jpg"
+			},
+	"describe1":"实在山东人国行索尼a6000微单相机 数码高清ILCE-6000L 16-50套机   ",
+	"describe2":"179点相位检测4D对焦，高速连拍高达11张/秒，搭载BIONZ X影像处理器，优化区域降噪，内置NFC和WIFI轻松分享，拥有电子取景器，2400万像素。",
+	"xImg":[
+			{"xImg00":"libs/imgs/sm-03-l01.jpg"},
+			{"xImg00":"libs/imgs/sm-03-l02.jpg"},
+			{"xImg00":"libs/imgs/sm-03-l03.jpg"},
+			{"xImg00":"libs/imgs/sm-03-l04.jpg"}						
+			]
+	},
+	{"id":"sm04",
+	"imgUrl":"libs/imgs/sm-04.jpg",	
+	"price":"1388",
+	"nums":"15",
+	"sizes":[{"size":"黑色"},
+			{"size":"白色"},
+			{"size":"银色"},			
+			{"size":"新石墨灰"}		
+			],
+	"lImg":{"lImg01":"libs/imgs/sm-04-l01.jpg",
+			"lImg02":"libs/imgs/sm-04-l02.jpg",
+			"lImg03":"libs/imgs/sm-04-l03.jpg",
+			"lImg04":"libs/imgs/sm-04-l04.jpg"
+			},
+	"describe1":" 三星Gear 360全景相机 VR专用摄像机 内容制作运动智能相机现货 ",
+	"describe2":"三星Gear 360于今年2月份的时候发布的，是主要拍摄VR内容制作，720度全景无死角，像素达到近4K画质，更好的画质，更方便的操作，产品均有大量现货，当天六点前下单，当天可以发出",
+	"xImg":[
+			{"xImg00":"libs/imgs/sm-04-l01.jpg"},
+			{"xImg00":"libs/imgs/sm-04-l02.jpg"},
+			{"xImg00":"libs/imgs/sm-04-l03.jpg"},
+			{"xImg00":"libs/imgs/sm-04-l04.jpg"}					
+			]
+	},
+	{"id":"sm05",
+	"imgUrl":"libs/imgs/sm-05.jpg",	
+	"price":"1498",
+	"nums":"11",
+	"sizes":[{"size":"黑色"},
+			{"size":"白色"},
+			{"size":"银色"},			
+			{"size":"新石墨灰"}		
+			],
+	"lImg":{"lImg01":"libs/imgs/sm-05-l01.jpg",
+			"lImg02":"libs/imgs/sm-05-l02.jpg",
+			"lImg03":"libs/imgs/sm-05-l01.jpg",
+			"lImg04":"libs/imgs/sm-05-l02.jpg"
+			},
+	"describe1":" 守望先锋八核六核电脑主机diy游戏独显台式组装迷你整机全套i5i7   ",
+	"describe2":" 畅玩游戏 英特尔六核12线程5640神U 8G内存 高端显卡，高速固态硬盘，三年质保+15天包退换， 家庭娱乐影音，办公,高端设计,游戏发烧友,网吧,工作室,游戏主播】【5年不落后!7年不淘汰】",
+	"xImg":[
+			{"xImg00":"libs/imgs/sm-05-l01.jpg"},
+			{"xImg00":"libs/imgs/sm-05-l02.jpg"}			
+			]
+	},
+	{"id":"sm06",
+	"imgUrl":"libs/imgs/sm-06.jpg",	
+	"price":"38",
+	"nums":"12",
+	"sizes":[{"size":"黑色"},
+			{"size":"白色"},
+			{"size":"银色"},			
+			{"size":"新石墨灰"}		
+			],
+	"lImg":{"lImg01":"libs/imgs/sm-06-l01.jpg",
+			"lImg02":"libs/imgs/sm-06-l02.jpg",
+			"lImg03":"libs/imgs/sm-06-l03.jpg",
+			"lImg04":"libs/imgs/sm-06-l04.jpg"
+			},
+	"describe1":"暴风魔镜小M vr眼镜虚拟现实3d眼镜手机头戴式头盔影院高清一体机   ",
+	"describe2":" 暴风新品小m",
+	"xImg":[
+			{"xImg00":"libs/imgs/sm-06-l01.jpg"},
+			{"xImg00":"libs/imgs/sm-06-l02.jpg"},
+			{"xImg00":"libs/imgs/sm-06-l03.jpg"},
+			{"xImg00":"libs/imgs/sm-06-l04.jpg"}					
+			]
+	},
+	{"id":"sm07",
+	"imgUrl":"libs/imgs/sm-07.jpg",	
+	"price":"5460",
+	"nums":"195",
+	"sizes":[{"size":"国行黑色"},
+			{"size":"国行白色"},
+			{"size":"银色"},			
+			{"size":"新石墨灰"}		
+			],	
+	"lImg":{"lImg01":"libs/imgs/sm-07-l01.jpg",
+			"lImg02":"libs/imgs/sm-07-l02.jpg",
+			"lImg03":"libs/imgs/sm-07-l03.jpg",
+			"lImg04":"libs/imgs/sm-07-l02.jpg"
+			},
+	"describe1":"Apple/苹果 iPad pro 现货 WIFI 新款 12.9寸平板电脑 4G /港版  ",
+	"describe2":" 2015年9月10日官方发布新款！ 12.9 英寸 Retina 显示屏，近两倍于 iPad Air 2 的中央处理器性能，图形处理器性能是其两倍。采用 64 位台式电脑级架构的芯片：全新 A9X。iOS 9系统。它薄至 6.9 毫米，轻至 713 克。实现了轻巧纤薄与格外坚固的卓越平衡。",
+	"xImg":[
+			{"xImg00":"libs/imgs/sm-07-l01.jpg"},
+			{"xImg00":"libs/imgs/sm-07-l02.jpg"},
+			{"xImg00":"libs/imgs/sm-07-l03.jpg"}				
+			]
+	},
+	{"id":"sm08",
+	"imgUrl":"libs/imgs/sm-08.jpg",	
+	"price":"1799",
+	"nums":"3",
+	"sizes":[{"size":"国行黑色"},
+			{"size":"国行白色"},
+			{"size":"银色"},			
+			{"size":"官方标配"}		
+			],
+	"lImg":{"lImg01":"libs/imgs/sm-08-l01.jpg",
+			"lImg02":"libs/imgs/sm-08-l02.jpg",
+			"lImg03":"libs/imgs/sm-08-l03.jpg",
+			"lImg04":"libs/imgs/sm-08-l04.jpg"
+			},
+	"describe1":"易美逊2K高清显示屏 P321WHQI 32英寸三星屏无边框网吧电脑显示器 ",
+	"describe2":" 大屏就选2K 超清分辨率 高性价比",
+	"xImg":[
+			{"xImg00":"libs/imgs/sm-08-l01.jpg"},
+			{"xImg00":"libs/imgs/sm-08-l02.jpg"},
+			{"xImg00":"libs/imgs/sm-08-l03.jpg"},
+			{"xImg00":"libs/imgs/sm-08-l04.jpg"}					
+			]
+	}
+]}
