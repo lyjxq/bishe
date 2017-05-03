@@ -77,13 +77,28 @@ body {
   .my-zs3 .zs1-1 {
     width: 25%; }
 
-.hbao {
+.haibao {
   float: left;
   width: 100%;
   height: 150px; }
-  .hbao img {
+  .haibao img {
     width: 100%;
     height: 100%; }
+
+.tuichu {
+  margin-top: 15px;
+  float: left;
+  width: 100%;
+  height: 50px; }
+  .tuichu .btn_tc {
+    width: 50%;
+    height: 100%;
+    background: #39D164;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 50px;
+    color: white; }
 
 .foot {
   width: 20%;

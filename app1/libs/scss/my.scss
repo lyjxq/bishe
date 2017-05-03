@@ -96,13 +96,30 @@ body{
     }
     
 }
-.hbao{
+.haibao{
     float: left;
     width: 100%;
     height: 150px;
     img{
         width: 100%;
         height: 100%;
+    }
+}
+.tuichu{
+    margin-top: 15px;
+    float: left;
+    width: 100%;
+    height: 50px;
+   
+    .btn_tc{
+        width: 50%;
+        height: 100%;
+        background: #39D164;
+        border-radius: 30px;
+        text-align: center;
+        font-size: 18px;
+        line-height: 50px;
+        color: white;
     }
 }
 .foot{

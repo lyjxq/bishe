@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>编辑</title>
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+		<!--css插件样式-->
+		<link rel="stylesheet" type="text/css" href="libs/plugin/ionic/css/ionic.min.css"/>
+		<link rel="stylesheet" type="text/css" href="libs/plugin/bootstrap/css/bootstrap.min.css"/>
+		<link rel="stylesheet" type="text/css" href="libs/plugin/Font-Awesome-3.2.1/css/font-awesome.min.css"/>
+		
+		<!--css自敲样式-->
+			<link rel="stylesheet" type="text/css" href="libs/css/bianji.css"/>
+		<!--js插件-->
+		<script src="libs/plugin/ionic/js/ionic.bundle.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="libs/jquery/jquery-2.1.1.min.js" type="text/javascript" charset="utf-8"></script>
+		<!--js自敲-->
+		<script src="libs/js/bianji.js" type="text/javascript" charset="utf-8"></script>
+	</head>
+	<body ng-app='mybj' ng-controller='bjCtrl'>
+			<!--头部标题-->
+		  	<div class="bar bar-header ">
+				<div class="col-xs-2 center-v gob">
+					<i class=" ion-ios-arrow-left icon "></i>					
+				</div>
+				<div class="col-xs-8 center-v">个人资料</div>									
+				<div class="col-xs-2 center-v"></div>														
+			</div> 
+			
+			<ion-content class='has-header'>
+				<div class="banner">
+					<img src="libs/imgs/zl02.jpg"/>
+					<div class="hy">
+						<dl>
+							<dt><img src="libs/imgs/tx.jpg"/></dt>
+							<dd>金牌会员</dd>
+							<dd id='name'>dd</dd>
+						</dl>
+					</div>
+				</div>
+				<div id="list" class="list">
+					 
+
+			        <a class="item item-icon-left item-icon-right " href="#">
+			          <i class="icon ion-person-stalker nz"></i>
+			          	用户名
+			           <span class="item-note">
+			            {{name}}
+			          </span>
+			          <i class="icon ion-more item-note"></i>
+			        </a>
+			
+			        <a class="item item-icon-left item-icon-right" href="#">
+			          <i class="icon ion-ribbon-a dj"></i>
+			          	会员等级
+			           <span class="item-note">
+			          	黄金会员
+			          </span>
+			          <i class="icon ion-more item-note"></i>
+			        </a>
+			
+			        <a class="item item-icon-left item-icon-right" href="#">
+			          <i class="icon ion-ios-heart ph"></i>
+			        	我的购物偏好
+			         	<i class="icon ion-more item-note"></i>
+			        </a>
+			
+			        <a class="item item-icon-left" href="#">
+			          <i class="icon ion-android-people py"></i>
+			         	朋友
+			          <span class="badge badge-balanced">9</span>
+			        </a>
+			
+			        <div class="item item-divider">
+			        
+			        </div>
+			
+			        <a class="item item-icon-left item-icon-right" href="mima.html">
+			          <i class="icon ion-ios-compose mm"></i>
+			          	修改密码
+			           <i class="icon ion-ios-arrow-right item-note"></i>
+			        </a>
+			
+			        <a class="item item-icon-left item-icon-right" href="#">
+			          <i class="icon ion-ios-box dz"></i>
+			          	收货地址管理
+			          <i class="icon ion-ios-arrow-right item-note"></i>
+			        </a>
+			
+			        <a class="item item-icon-left item-icon-right" href="#">
+			          <i class="icon ion-ios-calendar-outline jl"></i>
+			          	浏览记录
+			          <i class="icon ion-ios-arrow-right item-note"></i>
+			        </a>
+			
+			        
+
+      
+				</div>
+			</ion-content>
+	</body>
+</html>

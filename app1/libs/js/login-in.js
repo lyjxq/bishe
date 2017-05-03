@@ -29,7 +29,8 @@ window.onload = function(){
 			localStorage.removeItem('obj_info')
 			localStorage.setItem('obj_info',info)
 			
-			location.href = 'index.html'
+			window.history.go(-1)
+			//location.href = 'index.html'
 		}else{
 			$('.ts').text("用户名或密码错误") ;
 		}

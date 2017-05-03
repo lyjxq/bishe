@@ -38,7 +38,10 @@ location.href = 'login_in.html'
 			$(this).css('color','#33CD5F')
 			})
 		//$('.bg-hf dl').css('color','#908B8B')
-	
+		$('.btn_tc').on('click',function(){
+			localStorage.removeItem('obj_info')
+			location.href = 'index.html'
+		})
 	
 	
 	
