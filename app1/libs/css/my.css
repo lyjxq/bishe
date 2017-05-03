@@ -40,7 +40,8 @@ body {
   .my-nav .tc {
     height: 100px;
     text-align: inherit; }
-    .my-nav .tc span {
+    .my-nav .tc a {
+      text-decoration: none;
       line-height: 185px;
       color: #5A5555;
       font-size: 20px; }

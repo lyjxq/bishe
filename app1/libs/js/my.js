@@ -16,8 +16,8 @@ location.href = 'login_in.html'
 		$('.list h2').css('color','#27EA6A')
 		$('.tc').on('click',function(){
 			console.log('ll')
-			localStorage.removeItem('obj_info')
-			location.href = 'index.html'
+			//localStorage.removeItem('obj_info')
+			//location.href = 'index.html'
 		})
 		$('.sc').css('color','#F16368')
 		$('.ll').css('color','#FF9F05')
