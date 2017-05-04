@@ -64,6 +64,9 @@ app.controller('myCtrl',['$scope',function($scope){
 				$(this).css('color','#33CD5F')
 			})
 			$('.bg-hf dl').css('color','#908B8B')
+			$('.gob').on('touchstart',function(){
+				window.history.go(-1)
+			})
 		
 		})
 	}

@@ -15,7 +15,8 @@
 body {
   background: #F0F0F0;
   overflow: scroll;
-  height: 800px; }
+  height: 1200px;
+  overflow: auto; }
 
 .my-nav {
   width: 100%;

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>管理地址</title>
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+		<!--css插件样式-->
+		<link rel="stylesheet" type="text/css" href="libs/plugin/ionic/css/ionic.min.css"/>
+		<link rel="stylesheet" type="text/css" href="libs/plugin/bootstrap/css/bootstrap.min.css"/>
+		<link rel="stylesheet" type="text/css" href="libs/plugin/Font-Awesome-3.2.1/css/font-awesome.min.css"/>
+		
+		<!--css自敲样式-->					
+			<link rel="stylesheet" type="text/css" href="libs/css/address01.css"/>
+		<!--js插件-->
+		<script src="libs/plugin/ionic/js/ionic.bundle.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="libs/jquery/jquery-2.1.1.min.js" type="text/javascript" charset="utf-8"></script>
+		
+		<!--js自敲-->
+		<script src="libs/js/address01.js" type="text/javascript" charset="utf-8"></script>
+	</head>
+	<body ng-app='mybj' ng-controller='bjCtrl'>
+			<!--头部标题-->
+		  	<div class="bar bar-header ">
+				<div class="col-xs-2 center-v gob">
+					<i class=" ion-ios-arrow-left icon "></i>					
+				</div>
+				<div class="col-xs-8 center-v">新增地址</div>									
+				<div class="col-xs-2 center-v ok"><i class=" ion-android-checkbox-outline icon "></i></div>																							
+			</div> 
+			
+			<ion-content class='has-header'>
+				<div class="ad-list">
+					<div class="col-xs-3 title">
+						收货人
+					</div>
+					<div class="col-xs-9 info">
+						<input type="texe" name="name" id="name" value="" placeholder="请输入真实姓名"/>
+					</div>
+				</div>
+				
+				<div class="ad-list">
+					<div class="col-xs-3 title">
+						手机号码
+					</div>
+					<div class="col-xs-9 info">
+						<input type="tel" name="name" id="name" value="" placeholder="请输入手机号码"/>
+					</div>
+				</div>
+				
+				<div class="ad-list">
+					<div class="col-xs-3 title">
+						省市区
+					</div>
+					<div class="col-xs-9 info class="express-area"">
+						<input type="texe" name="name" id="name" value="" id="expressArea"/>
+					</div>
+				</div>
+				<div class="ad-list">
+					<div class="col-xs-3 title">
+							详细地址
+					</div>
+					<div class="col-xs-9 info">
+						<input type="texe" name="name" id="name" value="" placeholder="请输入您的详细地址"/>
+					</div>
+				</div>
+				
+				
+				
+			</ion-content>
+		
+	</body>
+</html>

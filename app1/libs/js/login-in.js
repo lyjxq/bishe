@@ -1,8 +1,10 @@
 window.onload = function(){
-	$('#box').css('height',$(window).height())
+	$('#box').css('height',$(window).height()-44)
 	$('#box').css('width',$(window).width())
 	var flagnp;
-	
+	$('.gob').on('touchstart',function(){
+		window.history.go(-1)
+	})
 	$('.button').on('click',function(){
 		name = $('input[id=name]').val();
 		pass = $('input[id=pas1]').val();

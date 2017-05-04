@@ -1,6 +1,9 @@
 window.onload = function(){
-	$('#box').css('height',$(window).height())
+	$('#box').css('height',$(window).height()-44)
 	$('#box').css('width',$(window).width())
+	$('.gob').on('touchstart',function(){
+		window.history.go(-1)
+	})
 	var flagn;
 	var flagp1;
 	var flagp2;

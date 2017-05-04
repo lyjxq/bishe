@@ -5,7 +5,7 @@ $(function(){
 	})
 	var window_h = $(window).height()
 	$('.box').css('height',(window_h-44))
-	$('.right-c').css('height',(window_h-44))
+	
 	
 	var huiyuan = localStorage.getItem('obj_info');
 	var hy = JSON.parse(huiyuan);

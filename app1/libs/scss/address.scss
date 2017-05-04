@@ -1,0 +1,51 @@
+ .col-xs-1,.col-xs-2,.col-xs-3,.col-xs-4,.col-xs-5,.col-xs-6,.col-xs-7,.col-xs-8,.col-xs-9,.col-xs-10,.col-xs-11,.col-xs-12,*{
+     padding: 0;
+     margin: 0;
+ }
+.center-v{
+    justify-content:center;//子元素水平居中
+    align-items:center;//子元素垂直居中
+    display:-webkit-flex;
+    border-bottom: 1px solid #C0C0C0;
+    font-size: 20px;
+    color: #C0C0C0;
+}
+.bar-footer{
+    .item-toggle{
+        border: none;
+        .toggle{
+            margin: 6px;
+//          padding: 5px 0px 5px 0px;
+            position: absolute;
+            top: 0px;
+            left: 0px;                     
+        }
+        .track{
+            width: 37px;
+            height: 17px;
+            .handle{
+                height: 13px;
+                width: 13px;
+            }
+        }
+    }        
+ 
+    .foot-jz{
+        text-align: center;
+        line-height: 36px; 
+        font-size: 12px;
+        color: #908B8B;     
+    }
+    .button{
+        
+        border: none;
+        border-radius: 20px;
+        line-height: 35px;      
+        background-color: #33CD5F;
+        color: white;
+                     
+    }
+
+
+
+}

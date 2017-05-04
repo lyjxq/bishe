@@ -1,0 +1,76 @@
+.top {
+  width: 100%;
+  height: 44px;
+  float: left;
+  text-align: center;
+  line-height: 44px;
+  font-size: 20px;
+  color: #C0C0C0;
+  border-bottom: 1px solid #C0C0C0;
+  margin-bottom: 10px; }
+
+option {
+  width: 100%; }
+
+#main {
+  width: 100%; }
+
+#add {
+  width: 46%;
+  margin-left: 27%;
+  padding: 0.5rem;
+  font-size: 0.7rem;
+  color: white;
+  font-weight: bold;
+  background: #30C37C;
+  border: none;
+  border-radius: 0.5rem;
+  margin-top: 0.4rem; }
+
+#ul {
+  width: 100%;
+  text-align: center; }
+
+#ul li {
+  list-style: none;
+  width: 88%;
+  border: 1px solid #CCCCCC;
+  border-radius: 0.5rem;
+  margin: 0.1rem auto;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 0.3rem;
+  margin-top: 15px; }
+
+#ul li .checked {
+  width: 1.2rem;
+  height: 1.2rem;
+  margin: 0 0.6rem;
+  border-radius: 50%; }
+
+#ul li p {
+  line-height: 1.5rem;
+  font-size: 0.6rem;
+  width: 85%; }
+  #ul li p span {
+    margin-bottom: 8px; }
+  #ul li p .spcolor {
+    color: #C0C0C0; }
+
+#ul li input[type=button] {
+  width: 2rem;
+  border: none;
+  border-radius: 0.3rem;
+  padding: 0.2rem 0;
+  margin-bottom: 5px;
+  margin-left: 10px; }
+
+#ul li input[type=button]:nth-child(1) {
+  background: #30C37C;
+  color: white; }
+
+#ul li input[type=button]:nth-child(2) {
+  background: #EA3F6C;
+  color: white; }
